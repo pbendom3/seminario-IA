@@ -5,4 +5,6 @@ Curso de formación sobre herramientas digitales para el profesorado del IES MUT
 
 ** Sesiones
 1. [[./sesion-1.org][Configuración de correo electrónico y herramientas corporativas M365.]] (16-nov-2022)
+2. AULES básico. (23-nov-2022)
+
 
