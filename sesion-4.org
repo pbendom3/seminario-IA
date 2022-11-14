@@ -1,4 +1,4 @@
-* Evaluando con AULES.
+* Gestión de la información creada en AULES.
 [[./imagenes/backup.png]]
 
 ** Índice
