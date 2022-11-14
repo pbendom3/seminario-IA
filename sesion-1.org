@@ -1,4 +1,4 @@
-[[./imagenes/sesion1.PNG]]
+[[./imagenes/sesion11.PNG]]
 * Configuración de correo electrónico y herramientas corporativas M365.
 [[./imagenes/id_digital.png]]
 
