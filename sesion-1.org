@@ -5,7 +5,7 @@
     - Configuración del correo electrónico de Google (@iesmutxamel.com).
     - Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
     - Cuenta y apps Office365.
-    - Conexión de las herramientas de Microsoft corporativas con AULES.
+    - Conexión Office365 con AULES.
    
 ** Referencias
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]]
