@@ -28,19 +28,19 @@
  [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
  
  Paso 1. Abrir el curso de AULES para el que queramos crear los contactos, y nos dirigimos al apartado de Usuarios inscritos:
- [[./imagenes/contactos1.png]]
+ [[./imagenes/contactos1.PNG]]
  
  Paso 2. Seleccionamos a todo nuestro alumnado matriculado en el curso:
  [[./imagenes/contactos2.png]]
   
  Paso 3. Elegimos la opción "Valores separados por comas (CSV)":
- [[./imagenes/contactos3.png]]
+ [[./imagenes/contactos3.PNG]]
   
  Paso 4. Empezará la descarga de un archivo .csv.
- [[./imagenes/contactos4.png]]
+ [[./imagenes/contactos4.PNG]]
  
  Paso 5. Nos dirigimos a la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos de Google]] e importamos el archivos que acabamos de descargar:
- [[./imagenes/contactos5.png]][[./imagenes/contactos6.png]]
+ [[./imagenes/contactos5.PNG]][[./imagenes/contactos6.PNG]]
  
  ¡LISTO!
  [[./imagenes/contactos7.png]]
