@@ -1,0 +1,7 @@
+* Seminario "herramientas TIC para la docencia".
+[[./imagenes/logos.PNG]]
+
+Curso de formación sobre herramientas digitales para el profesorado del IES MUTXAMEL.
+
+** Sesiones
+1. [[./presentaciones/caracteristicas_generales_dispositivos_digitales.pdf][Características principales de los dispositivos digitales]]
