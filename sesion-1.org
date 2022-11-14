@@ -9,6 +9,7 @@
    
 ** Referencias y links
 - [[https://mail.google.com/mail][Acceso a GMAIL]]
+- [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 
@@ -24,6 +25,25 @@
  - *Creación de grupos de contactos dentro de una organización*
  
  - *Creación de grupos de contactos a partir de AULES*
+ [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
+ 
+ Paso 1. Abrir el curso de AULES para el que queramos crear los contactos, y nos dirigimos al apartado de Usuarios inscritos:
+ [[./imagenes/contactos1.png]]
+ 
+ Paso 2. Seleccionamos a todo nuestro alumnado matriculado en el curso:
+ [[./imagenes/contactos2.png]]
+  
+ Paso 3. Elegimos la opción "Valores separados por comas (CSV)":
+ [[./imagenes/contactos3.png]]
+  
+ Paso 4. Empezará la descarga de un archivo .csv.
+ [[./imagenes/contactos4.png]]
+ 
+ Paso 5. Nos dirigimos a la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos de Google]] e importamos el archivos que acabamos de descargar:
+ [[./imagenes/contactos5.png]][[./imagenes/contactos6.png]]
+ 
+ ¡LISTO!
+ [[./imagenes/contactos7.png]]
 
 *** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
  #+begin_src bash
