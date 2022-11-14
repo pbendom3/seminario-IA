@@ -13,18 +13,12 @@
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 
-** Contenidos
-*** Configuración del correo electrónico de Google (@iesmutxamel.com)
-
- - *Creación de Etiquetas*
- 
- - *Filtros de correo*
- 
- - *Configuración de la firma*
- 
- - *Creación de grupos de contactos dentro de una organización*
- 
- - *Creación de grupos de contactos a partir de AULES*
+** Configuración del correo electrónico de Google (@iesmutxamel.com)
+*** Creación de Etiquetas
+*** Filtros de correo
+*** Configuración de la firma
+*** Creación de grupos de contactos dentro de una organización
+*** Creación de grupos de contactos a partir de AULES
  
  Paso 1. Abrir el curso de AULES para el que queramos crear los contactos, y nos dirigimos al apartado de Usuarios inscritos:
  [[./imagenes/contactos1.PNG]]
