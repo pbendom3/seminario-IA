@@ -77,7 +77,7 @@ Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
    3. Crear una firma personal que contenga los siguientes elementos:
       a) Nombre y Apellidos.
       b) Departamento al que pertenecéis.
-      c) Logos corporativos. Descárgalos [[https://github.com/pbendom/curso-TIC/raw/main/imagenes/logos_tarea.PNG][aquí]].
+      c) Logos corporativos. Descárgalos [[./imagenes/logos_tarea.PNG][aquí]].
    4. Crea un grupo de contactos con el profesorado asistente a este seminario.  
    5. Crea un grupo de contactos con alumnado exportando los datos desde algún curso de AULES que hayas creado con anterioridad.
    
