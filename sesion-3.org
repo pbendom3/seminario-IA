@@ -1,0 +1,17 @@
+* Evaluando con AULES.
+[[./imagenes/evaluacion.png]][[./imagenes/evaluacion2.png]]
+
+** Índice
+    - Creación de cuestionarios. 
+    - Importación masiva de preguntas. 
+    - Configuración del libro de calificaciones.
+    - Feedback y correcciones sobre entregas realizadas.
+   
+** Referencias
+- [[https://aules.edu.gva.es/][Link de acceso a AULES]]
+- [[https://moodle.org/?lang=es][Acceso a web oficial de Moodle]] 
+- [[https://docs.moodle.org/all/es/M%C3%B3dulo_cuestionario][Documentación para cuestionarios Moodle]]
+- [[https://docs.moodle.org/all/es/Calificaciones][Documentación para libro de calificaciones Moodle]]
+
+
+** Contenidos
