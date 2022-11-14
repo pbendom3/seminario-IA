@@ -8,7 +8,8 @@
     - Conexión Office365 con AULES.
    
 ** Referencias
-- [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]]
+- [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
+- [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 
 ** Contenidos
 *** Instalación
