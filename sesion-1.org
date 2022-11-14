@@ -39,7 +39,7 @@
  [[./imagenes/contactos4.PNG]]
  
  Paso 5. Nos dirigimos a la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos de Google]] e importamos el archivos que acabamos de descargar:
- [[./imagenes/contactos6.PNG]]
+ [[./imagenes/contactos8.PNG]]
  
  ¡LISTO!
  [[./imagenes/contactos7.png]]
