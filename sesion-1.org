@@ -39,7 +39,7 @@
  [[./imagenes/contactos7.png]]
 
 
-*** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
+** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
  #+begin_src bash
    # Opciones obligatorias (nombre y correo)
    git config --global user.name "Nombre y apellido"
@@ -57,13 +57,13 @@
 
  Si no se indica un editor de preferencia ~git~ utilizará el editor ~vim~ cuando tenga que solicitar la intervención del usuario (al hacer un ~merge~, o si el usuario ejecuta ~git commit~ sin indicar el mensaje). Este editor es complicado de utilizar para alguien no iniciado, por lo que es muy recomendable cambiar el editor por defecto.
 
-*** Cuenta y apps Office365
+** Cuenta y apps Office365
 Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
  #+begin_src bash
  git init
  #+end_src
 
-*** Conexión Office365 con AULES
+** Conexión Office365 con AULES
  [[https://git-scm.com/book/en/v2/images/lifecycle.png]]
 
 ** Tareas
