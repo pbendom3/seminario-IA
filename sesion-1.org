@@ -18,7 +18,7 @@
 *** Filtros de correo
 *** Configuración de la firma
 *** Creación de grupos de contactos dentro de una organización
-*** Creación de grupos de contactos a partir de AULES
+*** Creación de grupos de contactos a partir de datos registrados en AULES
  
  *Paso 1.* Abrir el curso de AULES para el que queramos crear los contactos, y nos dirigimos al apartado de Usuarios inscritos:
  [[./imagenes/contactos1.PNG]]
