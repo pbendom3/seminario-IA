@@ -1,4 +1,4 @@
-* Manejo básico de Git
+* Configuración de correo electrónico y herramientas corporativas M365.
 [[./imagenes/Logotipo_ME_FP_GV_FSE.png]]
 
 ** Videotutoriales
@@ -6,16 +6,11 @@
 - [[https://www.youtube.com/watch?v=uwqvuJ5lrIs&list=PLQg_Bl-6Gfo9k0KQg5vaaV9r6Hg--nMA7&index=3][Sesión 1.2]]
 
 ** Índice
-    - Breve introducción a Git
-    - Entornos: consola y escritorio
-    - Instalación
-    - Configuración
-    - Creación de repositorios
-    - Cómo guardar cambios
-    - Historial de cambios
-    - Cómo deshacer cambios
-    - Etiquetado
-
+    - Configuración del correo electrónico de Google (@iesmutxamel.com).
+    - Conexión a correo corporativo (@edu.gva.es).
+    - Cuenta GVA Office365.
+    - Conexión de las herramientas de Microsoft corporativas con AULES.
+   
 ** Referencias
 - [[https://git-scm.com/book/es/v2/][Libro de Git]]
 - [[https://training.github.com/][Hoja de referencia de Git]]
