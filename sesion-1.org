@@ -13,7 +13,17 @@
 
 ** Contenidos
 *** Configuración del correo electrónico de Google (@iesmutxamel.com)
- - [[https://git-scm.com/download][https://git-scm.com/download]]
+ - [[https://mail.google.com/mail][GMAIL]]
+ 
+ **** Creación de Etiquetas
+ 
+ **** Filtros de correo
+ 
+ **** Configuración de la firma
+ 
+ **** Creación de grupos de contactos dentro de una organización
+ 
+ **** Creación de grupos de contactos a partir de AULES
 
 *** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
  #+begin_src bash
