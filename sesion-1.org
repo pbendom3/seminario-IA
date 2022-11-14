@@ -2,7 +2,7 @@
 [[./imagenes/id_digital.png]]
 
 ** Índice
-    - Configuración del correo electrónico de Google (@iesmutxamel.com).
+    - [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Configuración del correo electrónico de Google (@iesmutxamel.com).]]  
     - Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
     - Cuenta y apps Office365.
     - Conexión Office365 con AULES.
