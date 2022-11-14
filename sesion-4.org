@@ -1,0 +1,16 @@
+* Evaluando con AULES.
+[[./imagenes/backup.png]]
+
+** Índice
+    - Copia de seguridad del curso. 
+    - Restauración de cursos. 
+    - Importación de tareas. 
+    - Calendario de eventos. 
+    - Informes y registros de AULES.
+   
+** Referencias
+- [[https://aules.edu.gva.es/][Link de acceso a AULES]]
+- [[https://moodle.org/?lang=es][Acceso a web oficial de Moodle]] 
+
+
+** Contenidos
