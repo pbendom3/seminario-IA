@@ -75,9 +75,9 @@ Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
    1. Crea una etiqueta nueva llamada "Seminario TIC".
    2. Filtra los correos que contengan el texto "seminario TIC" en el asunto para que se clasifiquen automáticamente dentro de la etiqueta creada en el punto 1.
    3. Crear una firma personal que contenga los siguientes elementos:
-      a) Nombre y Apellidos.
-      b) Departamento al que pertenecéis.
-      c) Logos corporativos. Descárgalos [[./imagenes/logos_tarea.PNG][aquí]].
+      1) Nombre y Apellidos.
+      2) Departamento al que pertenecéis.
+      3) Logos corporativos. Descárgalos [[./imagenes/logos_tarea.PNG][aquí]].
    4. Crea un grupo de contactos con el profesorado asistente a este seminario.  
    5. Crea un grupo de contactos con alumnado exportando los datos desde algún curso de AULES que hayas creado con anterioridad.
    
