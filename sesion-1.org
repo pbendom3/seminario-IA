@@ -1,4 +1,5 @@
-* Configuración de correo electrónico y herramientas corporativas M365.
+[[./imagenes/sesion1.PNG]]
+* Sesión 1. Configuración de correo electrónico y herramientas corporativas M365.
 [[./imagenes/id_digital.png]]
 
 ** Índice
