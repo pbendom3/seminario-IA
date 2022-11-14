@@ -1,20 +1,14 @@
 * Configuración de correo electrónico y herramientas corporativas M365.
 [[./imagenes/Logotipo_ME_FP_GV_FSE.png]]
 
-** Videotutoriales
-- [[https://www.youtube.com/watch?v=DuewUoPnAmg&index=2&list=PLQg_Bl-6Gfo9k0KQg5vaaV9r6Hg--nMA7][Sesión 1.1]]
-- [[https://www.youtube.com/watch?v=uwqvuJ5lrIs&list=PLQg_Bl-6Gfo9k0KQg5vaaV9r6Hg--nMA7&index=3][Sesión 1.2]]
-
 ** Índice
-    - Configuración del correo electrónico de Google (@iesmutxamel.com).
-    - Conexión a correo corporativo (@edu.gva.es).
-    - Cuenta GVA Office365.
+    - Configuración del correo electrónico de Google (@iesmutxamel.com). GMAIL.
+    - Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es). OUTLOOK.
+    - Cuenta y apps Office365.
     - Conexión de las herramientas de Microsoft corporativas con AULES.
    
 ** Referencias
-- [[https://git-scm.com/book/es/v2/][Libro de Git]]
-- [[https://training.github.com/][Hoja de referencia de Git]]
-- [[https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf][Hoja de referencia de Git (PDF)]]
+- [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]]
 
 ** Contenidos
 *** Instalación
