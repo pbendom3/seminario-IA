@@ -4,7 +4,15 @@
 Curso de formación sobre herramientas digitales para el profesorado del IES MUTXAMEL.
 
 ** Sesiones
-1. [[./sesion-1.org][Configuración de correo electrónico y herramientas corporativas M365.]] (16-nov-2022)
-2. AULES básico. (23-nov-2022)
+1.  [[./sesion-1.org][Configuración de correo electrónico y herramientas corporativas M365.]] (16-nov-2022)
+2.  AULES básico. (30-nov-2022)
+3.  Evaluando con AULES. (7-dic-2022)
+4.  Gestión de la información creada en AULES. (18-ene-2023) 
+5.  Herramientas digitales para metodología de clase invertida (Flipped Classroom). (25-ene-2023)
+6.  Herramientas digitales en la web 2.0 para el trabajo colaborativo. (1-feb-2023)
+7.  Generación de contenido digital. (8-feb-2023)
+8.  Métodos anticopia. Otras herramientas digitales para el trabajo en equipo y ABP. (15-feb-2023)
+9.  Learning analytics: conocer y comprender el proceso de enseñanza-aprendizaje a través de los datos recopilados en el aula. (8-mar-2023)
+10. Recopilación final. Conclusiones y cierre de curso. (15-mar-2023)
 
 
