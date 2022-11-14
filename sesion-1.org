@@ -85,4 +85,4 @@ Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
    Repite los puntos 1, 2 y 3 con tu cuenta de correo corporativo ~@edu.gva.es~.
 
 *** Entrega de la tarea
-    Guarda el fichero con las capturas en formato *PDF* y nómbralo según el patrón ~APELLIDOS_NOMBRE_sesion1.pdf~. Súbelo a la nube de tu cuenta de OneDrive y comparte el enlace al archivo vía Teams conmigo ~p.benaventedomenec@edu.gva.es~.
+    Guarda el fichero con las capturas en formato *PDF* y nómbralo según el patrón ~APELLIDOS_NOMBRE_sesion1.pdf~. Súbelo a la nube de tu cuenta de OneDrive y comparte el enlace al archivo conmigo ~p.benaventedomenec@edu.gva.es~.
