@@ -2,8 +2,8 @@
 [[./imagenes/id_digital.png]]
 
 ** Índice
-    - Configuración del correo electrónico de Google (@iesmutxamel.com). GMAIL.
-    - Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es). OUTLOOK.
+    - Configuración del correo electrónico de Google (@iesmutxamel.com).
+    - Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
     - Cuenta y apps Office365.
     - Conexión de las herramientas de Microsoft corporativas con AULES.
    
