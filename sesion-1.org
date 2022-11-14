@@ -7,23 +7,23 @@
     - Cuenta y apps Office365.
     - Conexión Office365 con AULES.
    
-** Referencias
+** Referencias y links
+- [[https://mail.google.com/mail][Acceso a GMAIL]]
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 
 ** Contenidos
 *** Configuración del correo electrónico de Google (@iesmutxamel.com)
- - [[https://mail.google.com/mail][GMAIL]]
+
+ - *Creación de Etiquetas*
  
- **** Creación de Etiquetas
+ - *Filtros de correo*
  
- **** Filtros de correo
+ - *Configuración de la firma*
  
- **** Configuración de la firma
+ - *Creación de grupos de contactos dentro de una organización*
  
- **** Creación de grupos de contactos dentro de una organización
- 
- **** Creación de grupos de contactos a partir de AULES
+ - *Creación de grupos de contactos a partir de AULES*
 
 *** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
  #+begin_src bash
