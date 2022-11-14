@@ -25,7 +25,6 @@
  - *Creación de grupos de contactos dentro de una organización*
  
  - *Creación de grupos de contactos a partir de AULES*
- [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
  
  Paso 1. Abrir el curso de AULES para el que queramos crear los contactos, y nos dirigimos al apartado de Usuarios inscritos:
  [[./imagenes/contactos1.PNG]]
@@ -36,7 +35,7 @@
  Paso 3. Elegimos la opción "Valores separados por comas (CSV)":
  [[./imagenes/contactos3.PNG]]
   
- Paso 4. Empezará la descarga de un archivo .csv.
+ Paso 4. Empezará la descarga de un archivo .csv:
  [[./imagenes/contactos4.PNG]]
  
  Paso 5. Nos dirigimos a la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos de Google]] e importamos el archivos que acabamos de descargar:
@@ -44,6 +43,7 @@
  
  ¡LISTO!
  [[./imagenes/contactos7.png]]
+
 
 *** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
  #+begin_src bash
