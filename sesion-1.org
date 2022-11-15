@@ -104,10 +104,10 @@ Vamos a hacerlo:
 Si todavía no lo has hecho, configura tu cuenta de correo corporativo GVA replicando este [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][tutorial]].
 
 ** 3. Cuenta y apps Office365
-Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
- #+begin_src bash
- git init
- #+end_src
+Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
+
+[[./imagenes/office365.PNG]]
+[[./imagenes/office365_2.PNG]]
 
 ** 4. Conexión Office365 con AULES
  [[https://git-scm.com/book/en/v2/images/lifecycle.png]]
