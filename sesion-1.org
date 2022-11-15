@@ -49,13 +49,13 @@ Una firma de correo es texto (por ejemplo, tu información de contacto o tu cita
 
 Un ejemplo,
 
-[[./imagenes/firma.png]]
+[[./imagenes/firma.PNG]]
 
 Crea tu propia firma y haz que cada vez que redactes un correo nuevo aparezca en el pie. Usa el formato que quieras (texto, colores, imágenes,...), pero incluye al menos tu nombre y apellidos, departamento o especialidad a la que perteneces y los [[./imagenes/logos_tarea.PNG][logos]] del instituto. Para ello, sigue los siguientes pasos:
 
 [[./gif/firma.gif]]
 
-Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envialo a ~p.benaventedomenec@edu.gva.es~.
+*Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envialo a ~p.benaventedomenec@edu.gva.es~.*
 
 
 *** Creación de grupos de contactos dentro de una organización
