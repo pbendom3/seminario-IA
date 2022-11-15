@@ -109,6 +109,17 @@ Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
 [[./imagenes/office365.PNG]]
 [[./imagenes/office365_2.PNG]]
 
+*** [[https://outlook.office365.com/mail/][OUTLOOK]]
+
+*** [[https://gvaedu-my.sharepoint.com/personal][OneDrive]] 
+
+*** [[https://teams.microsoft.com/_#/discover][Teams]]  
+
+*** [[https://outlook.office.com/calendar/view/month][Calendario]]
+
+*** [[https://to-do.office.com/tasks/today?][To Do]] 
+
+
 ** 4. Conexión Office365 con AULES
  [[https://git-scm.com/book/en/v2/images/lifecycle.png]]
 
