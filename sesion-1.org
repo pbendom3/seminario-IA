@@ -74,8 +74,9 @@ Gmail nos lo pone fácil con la posibilidad de crear [[https://support.google.co
 
 Vamos a crear un grupo que incluya solamente a los asistentes a este seminario:
 
+[[./gif/contactos.gif]]
 
-
+*Redacta un correo nuevo e inserta en como destinatario el nombre del grupo que acabas de crear para probar que aparecen todos tus compañeros.*
 
 *** Creación de grupos de contactos a partir de datos registrados en AULES
  
