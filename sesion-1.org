@@ -38,6 +38,10 @@ Para automatizar el proceso de organización de nuestro correo podemos usar los 
 
 Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo con el asunto "seminario TIC" vaya directo a la etiqueta que acabamos de crear.
 
+[[./gif/filtros.gif]]
+
+Vas a recibir un correo por mi parte que contenga en el asunto el texto "seminario TIC". ¡Comprueba que tu filtro funciona correctamente!
+
 *** Configuración de la firma
 *** Creación de grupos de contactos dentro de una organización
 *** Creación de grupos de contactos a partir de datos registrados en AULES
