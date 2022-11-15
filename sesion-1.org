@@ -22,12 +22,9 @@
 Dada la cantidad de información variada que recibimos todos los dias en nuestro email, las [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][etiquetas]] son un recurso para ayudar a organizar nuestros correos electrónicos de forma que se puedan clasificar por temática, curso, nivel educativo, etc,...
 
 Vamos a crear una etiqueta para gestionar los correos que recibamos de este seminario. Para ello, nos dirigimos a [[https://mail.google.com/mail][GMAIL]] con nuestra cuenta de organización del IES MUTXAMEL.
-[[./imagenes/gmail.png]]
 
 Una vez dentro, seguiremos los siguientes pasos:
-[[./videos/gmail.png]]
 [[./gif/prueba.gif]]
-
 
 
 *** Filtros de correo
