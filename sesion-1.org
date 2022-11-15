@@ -11,6 +11,7 @@
 ** Referencias y links
 - [[https://mail.google.com/mail][Acceso a GMAIL]]
 - [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre etiquetas de Gmail]]
+- [[https://support.google.com/mail/answer/6579?hl=es][Documentación sobre filtros de Gmail]]
 - [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
@@ -29,6 +30,14 @@ Una vez dentro, seguiremos los siguientes pasos:
 
 
 *** Filtros de correo
+Vale, ya tengo la etiqueta creada... ¡¿y ahora qué?!
+
+Podríamos pasarnos un rato arrastrando correos relacionados con este seminario dentro de la etiqueta, pero... ¿¿y si lo hace una máquina por nosotros??
+
+Para automatizar el proceso de organización de nuestro correo podemos usar los [[https://support.google.com/mail/answer/6579?hl=es][Filtros]]. Esta funcionalidad nos permite que Google detecte cuando recibimos un correo con ciertas características que nosotros definimos, y los inserte directamente en la etiqueta que les corresponda. 
+
+Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo con el asunto "seminario TIC" vaya directo a la etiqueta que acabamos de crear.
+
 *** Configuración de la firma
 *** Creación de grupos de contactos dentro de una organización
 *** Creación de grupos de contactos a partir de datos registrados en AULES
