@@ -92,11 +92,9 @@ Vamos a hacerlo:
  *Paso 1.* Descargar datos desde AULES:
  [[./gif/alumnos.gif]]
  
- *Paso 2.* Cargar datos en la app de Contactos:
- [[./imagenes/contactos2.png]]
+ *Paso 2.* Cargar datos en la app de [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]]:
+  [[./gif/alumnos2.gif]]
   
-
- 
  *¡LISTO!*
  [[./imagenes/contactos7.png]]
 
