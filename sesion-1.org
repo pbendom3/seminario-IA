@@ -96,6 +96,7 @@ Vamos a hacerlo:
   [[./gif/alumnos2.gif]]
   
 *Redacta un correo nuevo e inserta en como destinatario el nombre del grupo de alumnado que acabas de crear para probar que aparecen los estudiantes del curso esperados.*
+
 [[./imagenes/alumnado.PNG]]
 
 
