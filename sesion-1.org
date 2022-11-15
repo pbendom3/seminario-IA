@@ -55,7 +55,7 @@ Crea tu propia firma y haz que cada vez que redactes un correo nuevo aparezca en
 
 [[./gif/firma.gif]]
 
-*Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envialo a ~p.benaventedomenec@edu.gva.es~.*
+*Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envialo a* ~p.benaventedomenec@edu.gva.es~.
 
 
 *** Creación de grupos de contactos dentro de una organización
