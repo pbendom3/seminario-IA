@@ -24,7 +24,8 @@ Dada la cantidad de información variada que recibimos todos los dias en nuestro
 Vamos a crear una etiqueta para gestionar los correos que recibamos de este seminario. Para ello, nos dirigimos a [[https://mail.google.com/mail][GMAIL]] con nuestra cuenta de organización del IES MUTXAMEL.
 
 Una vez dentro, seguiremos los siguientes pasos:
-[[./gif/prueba.gif]]
+
+[[./gif/etiquetas.gif]]
 
 
 *** Filtros de correo
