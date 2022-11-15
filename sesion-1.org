@@ -12,6 +12,7 @@
 - [[https://mail.google.com/mail][Acceso a GMAIL]]
 - [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre etiquetas de Gmail]]
 - [[https://support.google.com/mail/answer/6579?hl=es][Documentación sobre filtros de Gmail]]
+- [[https://support.google.com/mail/answer/8395?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre firmas de Gmail]]
 - [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
@@ -44,6 +45,17 @@ Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo c
 
 
 *** Configuración de la firma
+Una firma de correo es texto (por ejemplo, tu información de contacto o tu cita favorita) que se añade de forma automática al final de todos los mensajes de Gmail que envías, a modo de pie de página.
+
+Un ejemplo,
+[[./imagenes/firma.png]]
+
+Crea tu propia firma y haz que cada vez que redactes un correo nuevo aparezca en el pie. Usa el formato que quieras (texto, colores, imágenes,...), pero incluye al menos tu nombre y apellidos, departamento o especialidad a la que perteneces y los [[./imagenes/logos_tarea.PNG][logos]] del instituto. Para ello, sigue los siguientes pasos:
+[[./gif/firma.gif]]
+
+Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envialo a ~p.benaventedomenec@edu.gva.es~.
+
+
 *** Creación de grupos de contactos dentro de una organización
 *** Creación de grupos de contactos a partir de datos registrados en AULES
  
