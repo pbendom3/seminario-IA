@@ -34,13 +34,14 @@ Vale, ya tengo la etiqueta creada... ¡¿y ahora qué?!
 
 Podríamos pasarnos un rato arrastrando correos relacionados con este seminario dentro de la etiqueta, pero... ¿¿y si lo hace una máquina por nosotros??
 
-Para automatizar el proceso de organización de nuestro correo podemos usar los [[https://support.google.com/mail/answer/6579?hl=es][Filtros]]. Esta funcionalidad nos permite que Google detecte cuando recibimos un correo con ciertas características que nosotros definimos, y los inserte directamente en la etiqueta que les corresponda. 
+Para automatizar el proceso de organización de nuestro correo podemos usar los [[https://support.google.com/mail/answer/6579?hl=es][filtros]]. Esta funcionalidad nos permite que Google detecte cuando recibimos un correo con ciertas características que nosotros definimos, y los inserte directamente en la etiqueta que les corresponda. 
 
-Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo con el asunto "seminario TIC" vaya directo a la etiqueta que acabamos de crear.
+Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo con el asunto "seminario TIC" vaya directo a la etiqueta ~Seminario TIC~ que acabamos de crear.
 
 [[./gif/filtros.gif]]
 
-Vas a recibir un correo por mi parte que contenga en el asunto el texto "seminario TIC". ¡Comprueba que tu filtro funciona correctamente!
+*Vas a recibir un correo por mi parte que contenga en el asunto el texto "seminario TIC". ¡Comprueba que tu filtro funciona correctamente!*
+
 
 *** Configuración de la firma
 *** Creación de grupos de contactos dentro de una organización
