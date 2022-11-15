@@ -83,21 +83,19 @@ Para consultar el grupo creado, accede a tus [[https://contacts.google.com/u/1/?
 
 
 *** Creación de grupos de contactos a partir de datos registrados en AULES
+Vale, ya tengo a mis compañeros fichados, pero... ¿qué pasa con mi alumnado?
+
+Si necesitamos enviar correos a nuestro alumnado, AULES nos lo pone fácil. Podemos descargar los datos de los usuarios matriculados en un curso, de forma que desde la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]] de Google podamos importarlos y gestionarlos igual que si se tratara de un grupo dentro de una misma organización. 
+
+Vamos a hacerlo:
  
- *Paso 1.* Abrimos el curso de AULES para el que queramos crear los contactos, y nos dirigimos al apartado de "Usuarios inscritos":
- [[./imagenes/contactos1.PNG]]
+ *Paso 1.* Descargar datos desde AULES:
+ [[./gif/alumnos.gif]]
  
- *Paso 2.* Seleccionamos a todo nuestro alumnado matriculado en el curso:
+ *Paso 2.* Cargar datos en la app de Contactos:
  [[./imagenes/contactos2.png]]
   
- *Paso 3.* Elegimos la opción "Valores separados por comas (CSV)":
- [[./imagenes/contactos3.PNG]]
-  
- *Paso 4.* Empezará la descarga de un archivo .csv:
- [[./imagenes/contactos4.PNG]]
- 
- *Paso 5.* Nos dirigimos a la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos de Google]] e importamos el archivo que acabamos de descargar:
- [[./imagenes/contactos8.PNG]]
+
  
  *¡LISTO!*
  [[./imagenes/contactos7.png]]
