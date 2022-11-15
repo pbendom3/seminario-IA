@@ -76,7 +76,11 @@ Vamos a crear un grupo que incluya solamente a los asistentes a este seminario:
 
 [[./gif/contactos.gif]]
 
+Para consultar el grupo creado, accede a tus [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]] y comprueba que aparece.
+[[./imagenes/contactos.PNG]]
+
 *Redacta un correo nuevo e inserta en como destinatario el nombre del grupo que acabas de crear para probar que aparecen todos tus compañeros.*
+
 
 *** Creación de grupos de contactos a partir de datos registrados en AULES
  
