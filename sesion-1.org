@@ -48,9 +48,11 @@ Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo c
 Una firma de correo es texto (por ejemplo, tu información de contacto o tu cita favorita) que se añade de forma automática al final de todos los mensajes de Gmail que envías, a modo de pie de página.
 
 Un ejemplo,
+
 [[./imagenes/firma.png]]
 
 Crea tu propia firma y haz que cada vez que redactes un correo nuevo aparezca en el pie. Usa el formato que quieras (texto, colores, imágenes,...), pero incluye al menos tu nombre y apellidos, departamento o especialidad a la que perteneces y los [[./imagenes/logos_tarea.PNG][logos]] del instituto. Para ello, sigue los siguientes pasos:
+
 [[./gif/firma.gif]]
 
 Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envialo a ~p.benaventedomenec@edu.gva.es~.
