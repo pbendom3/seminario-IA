@@ -89,7 +89,7 @@ Si necesitamos enviar correos a nuestro alumnado, AULES nos lo pone fácil. Pode
 
 Vamos a hacerlo:
  
- *Paso 1.* Descargar datos desde AULES:
+ *Paso 1.* Descargar datos en formato .CSV desde AULES:
  [[./gif/alumnos.gif]]
  
  *Paso 2.* Cargar datos en la app de [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]]:
