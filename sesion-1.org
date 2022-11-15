@@ -125,6 +125,8 @@ Podemos conectar nuestras aplicaciones de Microsoft con AULES. De esta forma, po
 
 [[./imagenes/officeAULES.PNG]]
 
+[[./imagenes/ficheros_office.PNG]]
+
 
 ** Tareas
    Realiza las tareas que se indican a continuación. Incluye las *capturas de pantalla* que se pidan en un documento tipo *LibreOffice* o *Word*.
