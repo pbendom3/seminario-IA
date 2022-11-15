@@ -121,7 +121,10 @@ Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
 
 
 ** 4. Conexión Office365 con AULES
- [[https://git-scm.com/book/en/v2/images/lifecycle.png]]
+Podemos conectar nuestras aplicaciones de Microsoft con AULES. De esta forma, podremos enlazar directamente archivos contenidos en nuestras carpetas de OneDrive, sincronizar el calendario, etc.
+
+[[./imagenes/officeAULES.PNG]]
+
 
 ** Tareas
    Realiza las tareas que se indican a continuación. Incluye las *capturas de pantalla* que se pidan en un documento tipo *LibreOffice* o *Word*.
