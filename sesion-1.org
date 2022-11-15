@@ -79,7 +79,7 @@ Vamos a crear un grupo que incluya solamente a los asistentes a este seminario:
 Para consultar el grupo creado, accede a tus [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]] y comprueba que aparece.
 [[./imagenes/contactos.PNG]]
 
-*Redacta un correo nuevo e inserta en como destinatario el nombre del grupo que acabas de crear para probar que aparecen todos tus compañeros.*
+*Redacta un correo nuevo e inserta como destinatario el nombre del grupo que acabas de crear para probar que aparecen todos tus compañeros.*
 
 
 *** Creación de grupos de contactos a partir de datos registrados en AULES
@@ -95,7 +95,7 @@ Vamos a hacerlo:
  *Paso 2.* Cargar datos en la app de [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]]:
   [[./gif/alumnos2.gif]]
   
-*Redacta un correo nuevo e inserta en como destinatario el nombre del grupo de alumnado que acabas de crear para probar que aparecen los estudiantes del curso esperados.*
+*Redacta un correo nuevo e inserta como destinatario el nombre del grupo de alumnado que acabas de crear para probar que aparecen los estudiantes del curso esperados.*
 
 [[./imagenes/alumnado.PNG]]
 
