@@ -5,6 +5,8 @@
     - Creación de cursos.
     - Gestión de usuarios.
     - Tipos de tareas.
+    - Foros (avisos y debates).
+    - Libros.
     - Creación de actividades H5P.
     - Creación de actividades de tipo TALLER.
    
