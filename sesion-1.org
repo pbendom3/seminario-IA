@@ -95,8 +95,8 @@ Vamos a hacerlo:
  *Paso 2.* Cargar datos en la app de [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]]:
   [[./gif/alumnos2.gif]]
   
- *¡LISTO!*
- [[./imagenes/contactos7.png]]
+*Redacta un correo nuevo e inserta en como destinatario el nombre del grupo de alumnado que acabas de crear para probar que aparecen los estudiantes del curso esperados.*
+[[./imagenes/alumnado.PNG]]
 
 
 ** 2. Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
