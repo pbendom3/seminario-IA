@@ -101,22 +101,7 @@ Vamos a hacerlo:
 
 
 ** 2. Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
- #+begin_src bash
-   # Opciones obligatorias (nombre y correo)
-   git config --global user.name "Nombre y apellido"
-   git config --global user.email CORREO@ELECTRONICO
-
-   # Editor de preferencia: elegir solo una opción
-
-   # Editor de preferencia. Como primer ejemplo se incluye Notepad++ en Windows
-   git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
-
-   # Editor de preferencia. Como segundo ejemplo se incluye Visual Studio Code
-   # Referencia: https://stackoverflow.com/questions/30024353/how-to-use-visual-studio-code-as-default-editor-for-git
-   git config --global core.editor "code --wait"
- #+end_src
-
- Si no se indica un editor de preferencia ~git~ utilizará el editor ~vim~ cuando tenga que solicitar la intervención del usuario (al hacer un ~merge~, o si el usuario ejecuta ~git commit~ sin indicar el mensaje). Este editor es complicado de utilizar para alguien no iniciado, por lo que es muy recomendable cambiar el editor por defecto.
+Si todavía no lo has hecho, configura tu cuenta de correo corporativo GVA replicando este [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][tutorial]].
 
 ** 3. Cuenta y apps Office365
 Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
