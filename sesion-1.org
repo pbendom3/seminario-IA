@@ -3,10 +3,10 @@
 [[./imagenes/id_digital.png]]
 
 ** Índice
-    - [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Configuración del correo electrónico de Google (@iesmutxamel.com).]]  
-    - [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][ Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).]]
-    - [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#cuenta-y-apps-office365][Cuenta y apps Office365.]] 
-    - [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#conexi%C3%B3n-office365-con-aules][Conexión Office365 con AULES.]] 
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Configuración del correo electrónico de Google (@iesmutxamel.com).]]  
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][ Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#cuenta-y-apps-office365][Cuenta y apps Office365.]] 
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#conexi%C3%B3n-office365-con-aules][Conexión Office365 con AULES.]] 
    
 ** Referencias y links
 - [[https://mail.google.com/mail][Acceso a GMAIL]]
@@ -14,7 +14,7 @@
 - [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 
-** Configuración del correo electrónico de Google (@iesmutxamel.com)
+** 1. Configuración del correo electrónico de Google (@iesmutxamel.com)
 *** Creación de Etiquetas
 *** Filtros de correo
 *** Configuración de la firma
@@ -40,7 +40,7 @@
  [[./imagenes/contactos7.png]]
 
 
-** Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
+** 2. Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
  #+begin_src bash
    # Opciones obligatorias (nombre y correo)
    git config --global user.name "Nombre y apellido"
@@ -58,13 +58,13 @@
 
  Si no se indica un editor de preferencia ~git~ utilizará el editor ~vim~ cuando tenga que solicitar la intervención del usuario (al hacer un ~merge~, o si el usuario ejecuta ~git commit~ sin indicar el mensaje). Este editor es complicado de utilizar para alguien no iniciado, por lo que es muy recomendable cambiar el editor por defecto.
 
-** Cuenta y apps Office365
+** 3. Cuenta y apps Office365
 Para crear un repositorio hay que situarse en la carpeta deseada y ejecutar:
  #+begin_src bash
  git init
  #+end_src
 
-** Conexión Office365 con AULES
+** 4. Conexión Office365 con AULES
  [[https://git-scm.com/book/en/v2/images/lifecycle.png]]
 
 ** Tareas
