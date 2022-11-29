@@ -6,7 +6,7 @@ Curso de formación sobre herramientas digitales para el profesorado del IES MUT
 ** Sesiones
 1.  [[./sesion-1.org][Configuración de correo electrónico y herramientas corporativas M365.]] (16-nov-2022)
 2.  [[./sesion-2.org][AULES básico.]] (7-dic-2022)
-3.  [[./sesion-3.org][Evaluando con AULES.]] (11-dic-2022)
+3.  [[./sesion-3.org][Evaluando con AULES.]] (11-ene-2022)
 4.  [[./sesion-4.org][Gestión de la información creada en AULES.]] (18-ene-2023) 
 5.  Herramientas digitales para metodología de clase invertida (Flipped Classroom). (25-ene-2023)
 6.  Generación de contenido digital. (1-feb-2023)
