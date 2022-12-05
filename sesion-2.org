@@ -2,16 +2,16 @@
 [[./imagenes/aules.png]]
 
 ** Índice
-    - Sabores AULES.
-    - Acceso.
-    - Creación de cursos.
-    - Gestión de usuarios.
-    - Configuración del aspecto del curso.
-    - Tipos de tareas.
-    - Foros (avisos y debates).
-    - Libros.
-    - Creación de actividades H5P.
-    - Creación de actividades de tipo TALLER.
+    1. Sabores AULES.
+    2. Acceso.
+    3. Creación de cursos.
+    4. Gestión de usuarios.
+    5. Configuración del aspecto del curso.
+    6. Tipos de tareas.
+    7. Foros (avisos y debates).
+    8. Libros.
+    9. Creación de actividades H5P.
+   10. Creación de actividades de tipo TALLER.
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
@@ -22,12 +22,12 @@
 ** Contenidos
 Según la definición que encontramos por parte de la DGTIC, Aules es un lugar destinado al e-learning, con vocación de universalidad, sencillez y accesibilidad desde cualquier dispositivo. Está basado en la plataforma *Moodle*, y ¡seguramente si habéis realizado alguna formación o curso online, la web que habéis utilizado también lo estaba! 
 
-*** Sabores AULES
+*** 1. Sabores AULES
 En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
 [[./imagenes/sabores1.png]]
 [[./imagenes/sabores2.png]]
 
-*** Acceso
+*** 2. Acceso
 Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña. 
 
 Por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA. Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
@@ -39,7 +39,18 @@ Nada más entrar, veremos nuestra Página principal y si tenemos algún curso cr
 
 [[./imagenes/acceso2.png]]
 
-*** Creación de cursos
+*** 3. Creación de cursos
 Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado en ITACA. 
 
 [[./gif/crear_curso_eso.gif]]
+
+*** 4. Gestión de usuarios
+Una vez creado el curso, deberemos dirigirnos al apartado de Usuarios para comprobar que tenemos matriculados a todos los estudiantes que necesitamos.
+
+*BUG - ¡error!* 
+[[./gif/matricular.gif]]
+
+
+
+** Tareas
+
