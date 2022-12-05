@@ -6,6 +6,7 @@
     - Acceso.
     - Creación de cursos.
     - Gestión de usuarios.
+    - Configuración del aspecto del curso.
     - Tipos de tareas.
     - Foros (avisos y debates).
     - Libros.
@@ -27,8 +28,11 @@ En AULES los cursos se clasifican en función de la enseñanza a la que van dest
 [[./imagenes/sabores2.png]]
 
 *** Acceso
-Para acceder a Aules, los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña (por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA). Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
+Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña. 
 
+Por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA. Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
+
+Acceso al sabor ESO:
 [[./imagenes/acceso.png]]
 
 Nada más entrar, veremos nuestra Página principal y si tenemos algún curso creado. *¡Cuidado porque a veces nos dejamos alguna pestaña cerrada y están ocultos!*
@@ -38,4 +42,4 @@ Nada más entrar, veremos nuestra Página principal y si tenemos algún curso cr
 *** Creación de cursos
 Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado en ITACA. 
 
-
+[[./gifs/crear_curso_eso.gif]]
