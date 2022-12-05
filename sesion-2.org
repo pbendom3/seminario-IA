@@ -45,10 +45,28 @@ Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado e
 [[./gif/crear_curso_eso.gif]]
 
 *** 4. Gestión de usuarios
+
+*- Restaurar contraseñas*
+Es habitual que nuestro alumnado se olvide de sus credenciales. Para ayudarnos a no perder mucho tiempo cada vez que esto ocurre, el profesorado dispone de un menú de restauración de contraseñas al que podemos acudir cada vez que lo necesitemos. 
+
+[[./gif/contrasenya.gif]]
+
+*IMPORTANTE*: Solamente podremos restaurar la contraseña del alumnado que tengamos matriculado en los cursos creados por nosotros.
+
+*- Matricular usuarios*
+
 Una vez creado el curso, deberemos dirigirnos al apartado de Usuarios para comprobar que tenemos matriculados a todos los estudiantes que necesitamos.
 
-*BUG - ¡error!* 
+     *meeeeeeeeeeeeec - BUG - ¡ERROR!* 
+
 [[./gif/matricular.gif]]
+
+Va fatal, ¿verdad? Pues no te preocupes, que esto es sólo el principio... :(
+
+Vámonos al sabor Aules Docente y así no molestamos a nadie.
+
+*** 5. Configuración del aspecto del curso
+
 
 
 
