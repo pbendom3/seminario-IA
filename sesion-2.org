@@ -11,7 +11,7 @@
     7. Foros (avisos y debates).
     8. Libros.
     9. Creación de actividades H5P.
-   10. Creación de actividades de tipo TALLER.
+    10. Creación de actividades de tipo TALLER.
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
