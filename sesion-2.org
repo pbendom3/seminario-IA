@@ -2,6 +2,7 @@
 [[./imagenes/aules.png]]
 
 ** Índice
+    - Sabores AULES.
     - Creación de cursos.
     - Gestión de usuarios.
     - Tipos de tareas.
@@ -17,4 +18,12 @@
 - [[https://h5p.org/][Acceso a web H5P]] 
 
 ** Contenidos
+Según la definición que encontramos por parte de la DGTIC, Aules es un lugar destinado al e-learning, con vocación de universalidad, sencillez y accesibilidad desde cualquier dispositivo.
+
+Los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña (por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA). Por ejemplo, una alumna nacida el 18 de octubre de 2003 y llamada Ejemplo Pérez Sanchis tendrá como contraseña ~per181003~).
+
+***Sabores AULES
+En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
+[[./imagenes/sabores1.png]]
+[[./imagenes/sabores2.png]]
 
