@@ -3,6 +3,7 @@
 
 ** Índice
     - Sabores AULES.
+    - Acceso.
     - Creación de cursos.
     - Gestión de usuarios.
     - Tipos de tareas.
@@ -20,10 +21,21 @@
 ** Contenidos
 Según la definición que encontramos por parte de la DGTIC, Aules es un lugar destinado al e-learning, con vocación de universalidad, sencillez y accesibilidad desde cualquier dispositivo. Está basado en la plataforma *Moodle*, y ¡seguramente si habéis realizado alguna formación o curso online, la web que habéis utilizado también lo estaba! 
 
-Para acceder a Aules, los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña (por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA). Por ejemplo, una alumna nacida el 18 de octubre de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per181003~).
-
 *** Sabores AULES
 En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
 [[./imagenes/sabores1.png]]
 [[./imagenes/sabores2.png]]
+
+*** Acceso
+Para acceder a Aules, los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña (por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA). Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
+
+[[./imagenes/acceso.png]]
+
+Nada más entrar, veremos nuestra Página principal y si tenemos algún curso creado. *¡Cuidado porque a veces nos dejamos alguna pestaña cerrada y están ocultos!*
+
+[[./imagenes/acceso2.png]]
+
+*** Creación de cursos
+Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado en ITACA. 
+
 
