@@ -47,6 +47,7 @@ Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado e
 *** 4. Gestión de usuarios
 
 *- Restaurar contraseñas*
+
 Es habitual que nuestro alumnado se olvide de sus credenciales. Para ayudarnos a no perder mucho tiempo cada vez que esto ocurre, el profesorado dispone de un menú de restauración de contraseñas al que podemos acudir cada vez que lo necesitemos. 
 
 [[./gif/contrasenya.gif]]
@@ -64,6 +65,10 @@ Una vez creado el curso, deberemos dirigirnos al apartado de Usuarios para compr
 Va fatal, ¿verdad? Pues no te preocupes, que esto es sólo el principio... :(
 
 Vámonos al sabor Aules Docente y así no molestamos a nadie.
+
+*Actividad*. Crea un curso nuevo en el sabor Aules Docente. Este es el curso base con el que trabajaremos a partir de ahora. 
+
+[[./imagenes/curso_docent.png]]
 
 *** 5. Configuración del aspecto del curso
 
