@@ -42,4 +42,4 @@ Nada más entrar, veremos nuestra Página principal y si tenemos algún curso cr
 *** Creación de cursos
 Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado en ITACA. 
 
-[[./gifs/crear_curso_eso.gif]]
+[[./gif/crear_curso_eso.gif]]
