@@ -72,7 +72,9 @@ Vámonos al sabor Aules Docente y así no molestamos a nadie.
 
 ** 5. Configuración del aspecto del curso
 
+*** Imagen del curso
 
+*** Formato y apariencia 
 
 
 ** Tareas
