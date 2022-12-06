@@ -9,7 +9,7 @@ Curso de formación sobre herramientas digitales para el profesorado del IES MUT
 3.  [[./sesion-3.org][Evaluando con AULES.]] (11-ene-2023)
 4.  [[./sesion-4.org][Gestión de la información creada en AULES.]] (18-ene-2023) 
 5.  Herramientas digitales para metodología de clase invertida (Flipped Classroom). (25-ene-2023)
-6.  Generación de contenido digital. (1-feb-2023)
+6.  Generación de contenido digital. H5P. (1-feb-2023)
 7.  Herramientas digitales en la web 2.0 para el trabajo colaborativo. (8-feb-2023)
 8.  Métodos anticopia. Otras herramientas digitales para el trabajo en equipo y ABP. (15-feb-2023)
 9.  Learning analytics: conocer y comprender el proceso de enseñanza-aprendizaje a través de los datos recopilados en el aula. (8-mar-2023)
