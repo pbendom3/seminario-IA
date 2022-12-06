@@ -89,6 +89,22 @@ Vamos a establecer una *configuración para que los temas tengan un desplegable*
 Por ejemplo, si elegimos el formato de actividad única y ya tenemos temas creados, *ESTOS DESAPARECERÁN*.
 
 *** Modo edición
+El modo edición [[./imagenes/modo_edicion.PNG]] es el que nos permite ir dando forma a nuestro curso:
+
+[[./imagenes/editar_actividades.PNG]]
+
+- Podemos introducir contenido nuevo para nuestro alumnado.
+- Ocultar actividades que no nos interese mostrar.
+- Modificar textos literales que pudiéramos tener (por ejemplo, el nombre de los temas).
+- Resaltar temas.
+- Etc...
+
+[[./imagenes/editar2.PNG]]
+
+Además, también podemos añadir bloques al curso como un Calendario de eventos cercanos que puede servir para reflejar las fechas de examen o de entrega de actividades.
+
+[[./imagenes/bloques.PNG]] [[./imagenes/calendario.PNG]]
+
 
 ** 6. Tipos de tareas
 
