@@ -122,7 +122,7 @@ Los foros se crean por defecto con el curso mediante una actividad denominada ~A
 
 [[./imagenes/anuncios.PNG]]
 
-Además de para establecer comunicación, son muy útiles para moderar debates en el aula. Un uso didáctico podría ser utilizarlo para abrir un tema de debate, y tras discutirlo en clase, cada estudiante deba plasmar con un comentario su opinión sobre lo que se ha debatido. Utilizando esta metodología facilitamos dos cosas:
+Además de para establecer comunicación, son muy útiles para moderar debates en el aula. *Un uso didáctico podría ser utilizarlo para abrir un tema de debate, y tras discutirlo en clase, cada estudiante deba plasmar con un comentario su opinión sobre lo que se ha debatido*. Utilizando esta metodología facilitamos dos cosas:
 
     - Que el alumnado esté atento durante todo el debate aunque no participe, ya que deberá expresar su opinición por escrito antes de finalizar la clase.
     - Que el alumnado menos participativo e introvertido también dé su opinión, aunque sea por escrito. Incluso podemos elegir responder de forma privada.
@@ -133,6 +133,9 @@ Además de para establecer comunicación, son muy útiles para moderar debates e
 
 
 *** Libros
+[[./imagenes/libro.PNG]]
+Las actividades de tipo *Libro* permiten a los profesores crear recursos multipágina con un formato parecido a un libro y una tabla de contenido. Se pueden incrustar multimedios, y los libros pueden imprimirse (o descargarse en un archivo PDF) enteros o por capítulos. 
+
 
 *** Creación de actividades de tipo TALLER
 
