@@ -133,11 +133,16 @@ Además de para establecer comunicación, son muy útiles para moderar debates e
 
 
 *** Libros
-[[./imagenes/libro.PNG]]
-Las actividades de tipo *Libro* permiten a los profesores crear recursos multipágina con un formato parecido a un libro y una tabla de contenido. Se pueden incrustar multimedios, y los libros pueden imprimirse (o descargarse en un archivo PDF) enteros o por capítulos. 
+
+[[./imagenes/libros.PNG]]
+
+Las actividades de tipo [[https://docs.moodle.org/all/es/Recurso_libro][Libro]] permiten a los profesores crear recursos multipágina con un formato parecido a un libro y una tabla de contenido. Se pueden incrustar multimedias, y los libros pueden enlazarse, imprimirse o descargarse en un archivo PDF enteros o por capítulos. 
 
 
 *** Creación de actividades de tipo TALLER
+
+[[./imagenes/taller.PNG]]
+
 
 *** Creación de actividades H5P
 
