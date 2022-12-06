@@ -2,12 +2,12 @@
 [[./imagenes/aules.png]]
 
 ** Índice
-    1. Sabores AULES.
-    2. Acceso.
-    3. Creación de cursos.
-    4. Gestión de usuarios.
-    5. Configuración del aspecto del curso.
-    6. Tipos de tareas.
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#1-sabores-aules][Sabores AULES.]]
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#2-acceso][Acceso.]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#3-creaci%C3%B3n-de-cursos][Creación de cursos.]]
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#4-gesti%C3%B3n-de-usuarios][Gestión de usuarios.]] 
+    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#5-configuraci%C3%B3n-del-aspecto-del-curso][Configuración del aspecto del curso.]] 
+    6. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#6-tipos-de-tareas][Tipos de tareas.]]
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
