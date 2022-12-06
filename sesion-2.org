@@ -77,6 +77,15 @@ Toda la configuración del curso la tenemos disponible a través de la rueda den
 [[./gif/imagen_curso.gif]]
 
 *** Formato y apariencia 
+También podremos elegir la forma en que el contenido de nuestro curso se visualiza. Por ejemplo, podemos hacer que los temas se desplieguen, temas semanales, formato de actividad única (sin temas), etc. 
+
+Vamos a establecer una *configuración para que los temas tengan un desplegable*, de forma que podamos ocultar el contenido cuando no nos interese.
+
+[[./gif/desplegable.gif]]
+
+*¡IMPORTANTE! Deberemos tener mucho cuidado al elegir el tipo de formato, ya que podemos perder información de nuestro curso.*
+
+Por ejemplo, si elegimos el formato de actividad única y ya tenemos temas creados, *ESTOS DESAPARECERÁN*.
 
 *** Modo edición
 
