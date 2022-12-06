@@ -145,13 +145,22 @@ Los libros pueden enlazarse, imprimirse o descargarse en un archivo PDF (enteros
 
 [[./imagenes/taller.PNG]]
 
-El Taller es una poderosa actividad de evaluación entre iguales (y autoevaluación también). Esto quiere decir que nuestro alumnado ve la entrega de los trabajos ajenos y se evalúan entre ellos.
+El [[https://docs.moodle.org/all/es/Gu%C3%ADa_r%C3%A1pida_de_Taller][Taller]] es una poderosa actividad de evaluación entre iguales (y autoevaluación también). Esto quiere decir que nuestro alumnado ve la entrega de los trabajos ajenos y se evalúan entre ellos.
 
 Una forma didáctica de aplicar este recurso en el aula es en el momento de hacer una exposición oral. Los estudiantes suelen motivarse y picarse más cuando los que les ponen nota son sus compañeros, y además conseguimos que el resto de alumnado permanezca atento a la exposición porque tendrán que calificarla justa y objetivamente. 
 
 Deberemos establecer criterios de calificación en una rúbrica que en el momento de evaluar les aparecerá a los estudiantes. Se recomienda siempre añadir algún elemento cualitativo (para que escriban) para fomentar la reflexión, permanezcan atentos en todo momento y piensen bien su calificación (no la elijan al tun-tun). Por ejemplo, un elemento cualitativo podría ser: "Qué es lo que más te ha gustado" o "Qué es lo que menos te ha gustado".
 
 *IMPORTANTE*: siempre deberemos configurar el taller para limitar la ponderación y nota máxima, para evitar que las calificaciones se vean alteradas y se disparen respecto a la realidad.
+
+[[./imagenes/taller2.PNG]]
+
+Tal y como se aprecia en la imagen anterior, el taller consta de distintas fases por las que el alumnado debe pasar. 
+
+    - Primeramente, el docente define en qué consiste el taller y la rúbrica de evaluación desde la configuración.
+    - Posteriormente, se abre una fase de entrega de trabajos en la que intervienen los estudiantes por primera vez.
+    - Una vez hechas las entregas, se abre la fase de evaluación. Dentro de esta fase deberemos realizar las exposiciones para que el alumnado se valúe en función de los criterios definidos en la primera fase de configuración.
+    - Una vez realizadas las calificaciones entre iguales se pasa a una última fase de cálculo de notas, que nos devolverá automáticamente la nota definitiva con las medias ponderadas teniendo en cuenta las notas que cada estudiante ha dado a sus compañeros.
 
 
 *** Creación de actividades H5P
