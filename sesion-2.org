@@ -109,12 +109,32 @@ Además, también podemos añadir bloques al curso como un Calendario de eventos
 
 
 ** 6. Tipos de tareas
+Los contenidos que podemos insertar en nuestros cursos se limitan a los siguientes tipos de actividades:
+
+[[./imagenes/tareas.PNG]]
+
+Las más utilizadas por su facilidad de uso son las Tareas (que utilizamos para entregables), los Ficheros (para compartir documentos con nuestro alumnado) y los enlaces URL (a webs externas).
+
+Vemos a continuación algunas actividades que son interesantes y no les solemos sacar provecho.
 
 *** Foros (avisos y debates)
+Los foros se crean por defecto con el curso mediante una actividad denominada ~Anuncios~. Están pensados para que el profesorado se comunique con su alumnado a través de ellos, ya que cada vez que publicamos algo se envía automáticamente un correo a todo aquel que esté matriculado.
+
+[[./imagenes/anuncios.PNG]]
+
+Además de para establecer comunicación, son muy útiles para moderar debates en el aula. Un uso didáctico podría ser utilizarlo para abrir un tema de debate, y tras discutirlo en clase, cada estudiante deba plasmar con un comentario su opinión sobre lo que se ha debatido. Utilizando esta metodología facilitamos dos cosas:
+
+    - Que el alumnado esté atento durante todo el debate aunque no participe, ya que deberá expresar su opinición por escrito antes de finalizar la clase.
+    - Que el alumnado menos participativo e introvertido también dé su opinión, aunque sea por escrito. Incluso podemos elegir responder de forma privada.
+    
+    [[./imagenes/abrir_debate.PNG]]
+    [[./imagenes/debate2.PNG]]
+    [[./imagenes/respuesta.PNG]]
+
 
 *** Libros
 
-*** Creación de actividades de tipo TALLER.
+*** Creación de actividades de tipo TALLER
 
-*** Creación de actividades H5P.
+*** Creación de actividades H5P
 
