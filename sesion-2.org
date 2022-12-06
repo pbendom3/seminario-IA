@@ -8,10 +8,6 @@
     4. Gestión de usuarios.
     5. Configuración del aspecto del curso.
     6. Tipos de tareas.
-    7. Foros (avisos y debates).
-    8. Libros.
-    9. Creación de actividades H5P.
-    10. Creación de actividades de tipo TALLER.
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
@@ -76,6 +72,15 @@ Vámonos al sabor Aules Docente y así no molestamos a nadie.
 
 *** Formato y apariencia 
 
+*** Modo edición
 
-** Tareas
+** 6. Tipos de tareas
+
+*** Foros (avisos y debates)
+
+*** Libros
+
+*** Creación de actividades de tipo TALLER.
+
+*** Creación de actividades H5P.
 
