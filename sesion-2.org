@@ -69,8 +69,8 @@ Vámonos al sabor Aules Docente y así no molestamos a nadie.
 ** 5. Configuración del aspecto del curso
 Toda la configuración del curso la tenemos disponible a través de la rueda dentada que encontramos en el menú superior
 
-[[./imagenes/edicion.png]]
-[[./imagenes/editar_curso.png]]
+[[./imagenes/edicion.PNG]]
+[[./imagenes/editar_curso.PNG]]
 
 *** Establecer imagen del curso
 
