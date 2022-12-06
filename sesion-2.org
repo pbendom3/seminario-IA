@@ -145,4 +145,5 @@ Las actividades de tipo [[https://docs.moodle.org/all/es/Recurso_libro][Libro]] 
 
 
 *** Creación de actividades H5P
+Próximamente...
 
