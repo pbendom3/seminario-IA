@@ -1,4 +1,4 @@
-[[./imagenes/sesion2.png]]
+[[./imagenes/sesion2.PNG]]
 
 * AULES básico.
 [[./imagenes/aules.png]]
