@@ -1,3 +1,5 @@
+[[./imagenes/sesion2.png]]
+
 * AULES básico.
 [[./imagenes/aules.png]]
 
