@@ -24,7 +24,7 @@ En AULES los cursos se clasifican en función de la enseñanza a la que van dest
 [[./imagenes/sabores2.png]]
 
 ** 2. Acceso
-Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña. 
+Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña.
 
 Por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA. Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
 
@@ -67,8 +67,14 @@ Vámonos al sabor Aules Docente y así no molestamos a nadie.
 [[./imagenes/curso_docent.png]]
 
 ** 5. Configuración del aspecto del curso
+Toda la configuración del curso la tenemos disponible a través de la rueda dentada que encontramos en el menú superior
 
-*** Imagen del curso
+[[./imagenes/edicion.png]]
+[[./imagenes/editar_curso.png]]
+
+*** Establecer imagen del curso
+
+[[./gif/imagen_curso.gif]]
 
 *** Formato y apariencia 
 
