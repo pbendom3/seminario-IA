@@ -82,6 +82,7 @@ También podremos elegir la forma en que el contenido de nuestro curso se visual
 Vamos a establecer una *configuración para que los temas tengan un desplegable*, de forma que podamos ocultar el contenido cuando no nos interese.
 
 [[./gif/desplegable.gif]]
+[[./gif/desplegable2.gif]]
 
 *¡IMPORTANTE! Deberemos tener mucho cuidado al elegir el tipo de formato, ya que podemos perder información de nuestro curso.*
 
