@@ -106,5 +106,6 @@ El formato que vamos a utilizar es XML de Moodle para asegurarnos de que contien
 *TAREA: Agrega un par de preguntas a tu archivo exportado tipo Aiken y vuelve a importarlo. Comprueba que la información que has añadido aparece correctamente en el Banco de preguntas.*
 
 ** 4. Configuración del libro de calificaciones
+Próximamente...
 ** 5. Exportación de resultados a hojas de cálculo
 ** 6. Feedback y correcciones sobre entregas realizadas
