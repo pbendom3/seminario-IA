@@ -37,7 +37,7 @@ En la configuración de una actividad de tipo cuestionario, además del nombre y
 [[./imagenes/calificacion.png]]
 
 - *Aspecto*, para indicar cuántas preguntas queremos que aparezcan por página.
-[[./imagenes/calificacion.png]]
+[[./imagenes/aspecto.png]]
 
 - *Comportamiento de la pregunta*, donde configuramos si las preguntan se ordenan aleatoriamente y en qué momento los estudiantes ven su corrección. El comportamiento más usado suele ser la ~Retroalimentación diferida~.
 [[./imagenes/comportamiento.png]]
