@@ -21,9 +21,32 @@
 
 
 ** Contenidos:
-** 1. Creación de cuestionarios.
-** 2. Banco de preguntas.
-** 3. Importación masiva de preguntas. 
-** 4. Configuración del libro de calificaciones.
-** 5. Exportación de resultados a hojas de cálculo.
-** 6. Feedback y correcciones sobre entregas realizadas.
+** 1. Creación de cuestionarios
+Como docentes, el uso de cuestionarios interactivos nos es interesante sobre todo a la hora de corregir. Cuando realicemos exámenes fácilmente autocorregibles, es conveniente que usemos este tipo de cuestionarios facilitados por la herramienta AULES. 
+
+Para crear uno, basta con añadir una actividad nueva de tipo ~Cuestionario~:
+[[./imagenes/cuestionario.png]]
+
+En la configuración de una actividad de tipo cuestionario, además del nombre y la descripción, tendremos que rellenar los siguientes campos:
+
+- *Temporalización*, donde se indica el período en el que el cuestionario permanecerá abierto.
+[[./imagenes/temporalización.png]]
+
+- *Calificación*, que define la nota mínima necesaria para aprobar y los intentos permitidos de los que dispone el alumnado para realizarlo.
+[[./imagenes/calificacion.png]]
+
+- *Aspecto*, para indicar cuántas preguntas queremos que aparezcan por página.
+[[./imagenes/calificacion.png]]
+
+- *Comportamiento de la pregunta*, donde configuramos si las preguntan se ordenan aleatoriamente y en qué momento los estudiantes ven su corrección. El comportamiento más usado suele ser la ~Retroalimentación diferida~.
+[[./imagenes/comportamiento.png]]
+
+[[./imagenes/cuestionario2.png]]
+
+Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestionario~ para añadir las preguntas que necesitemos. Para poder hacerlo, deberemos tenerlas antes creadas en el ~Banco de preguntas~. Vemos como funciona a continuación.
+
+** 2. Banco de preguntas
+** 3. Importación masiva de preguntas
+** 4. Configuración del libro de calificaciones
+** 5. Exportación de resultados a hojas de cálculo
+** 6. Feedback y correcciones sobre entregas realizadas
