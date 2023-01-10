@@ -58,10 +58,7 @@ Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestiona
 
 *** Categorías de las preguntas
 Se pueden crear categorías para clasificar las preguntas y así tenerlas organizadas, por ejemplo, por temas. 
-
-
-
-*** Las preguntas se comparten entre distintos sabores de AULES
+[[./gif/categorias.gif]]
 
 ** 3. Exportación e importación masiva de preguntas
 ** 4. Configuración del libro de calificaciones
