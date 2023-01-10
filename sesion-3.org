@@ -7,10 +7,11 @@
 
 ** Índice
     1. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#1-creaci%C3%B3n-de-cuestionarios][Creación de cuestionarios.]] 
-    2. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#2-importaci%C3%B3n-masiva-de-preguntas][Importación masiva de preguntas.]]
-    3. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#3-configuraci%C3%B3n-del-libro-de-calificaciones][Configuración del libro de calificaciones.]]
-    4. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#4-exportaci%C3%B3n-de-resultados-a-hojas-de-c%C3%A1lculo][Exportación de resultados a hojas de cálculo.]]
-    5. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#5-feedback-y-correcciones-sobre-entregas-realizadas][Feedback y correcciones sobre entregas realizadas.]]
+    2. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#2-banco-de-preguntas][Banco de preguntas.]]
+    3. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#3-importaci%C3%B3n-masiva-de-preguntas][Importación masiva de preguntas.]]
+    4. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#4-configuraci%C3%B3n-del-libro-de-calificaciones][Configuración del libro de calificaciones.]]
+    5. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#5-exportaci%C3%B3n-de-resultados-a-hojas-de-c%C3%A1lculo][Exportación de resultados a hojas de cálculo.]]
+    6. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#6-feedback-y-correcciones-sobre-entregas-realizadas][Feedback y correcciones sobre entregas realizadas.]]
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
@@ -20,8 +21,9 @@
 
 
 ** Contenidos:
-** 1. Creación de cuestionarios. 
-** 2. Importación masiva de preguntas. 
-** 3. Configuración del libro de calificaciones.
-** 4. Exportación de resultados a hojas de cálculo.
-** 5. Feedback y correcciones sobre entregas realizadas.
+** 1. Creación de cuestionarios.
+** 2. Banco de preguntas.
+** 3. Importación masiva de preguntas. 
+** 4. Configuración del libro de calificaciones.
+** 5. Exportación de resultados a hojas de cálculo.
+** 6. Feedback y correcciones sobre entregas realizadas.
