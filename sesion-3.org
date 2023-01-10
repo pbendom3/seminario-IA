@@ -42,9 +42,9 @@ En la configuración de una actividad de tipo cuestionario, además del nombre y
 - *Comportamiento de la pregunta*, donde configuramos si las preguntan se ordenan aleatoriamente y en qué momento los estudiantes ven su corrección. El comportamiento más usado suele ser la ~Retroalimentación diferida~.
 [[./imagenes/comportamiento.png]]
 
-[[./imagenes/cuestionario2.png]]
-
 Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestionario~ para añadir las preguntas que necesitemos. Para poder hacerlo, deberemos tenerlas antes creadas en el ~Banco de preguntas~. Vemos como funciona a continuación.
+
+[[./imagenes/cuestionario2.png]]
 
 ** 2. Banco de preguntas
 [[./imagenes/bancopreguntas.png]]
