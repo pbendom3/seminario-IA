@@ -60,7 +60,36 @@ Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestiona
 Se pueden crear categorías para clasificar las preguntas y así tenerlas organizadas, por ejemplo, por temas. 
 [[./gif/categorias.gif]]
 
+*** Tipos de preguntas
+Llegado a este momento, ya has podido ver que existen multitud de tipos de preguntas: verdadero/falso, relacionar, completar huecos, respuesta larga, respuestas numéricas...
+
+Una consideración a tener en cuenta es que *si incluimos una pregunta de tipo* ~breve~ *o* ~abierta~ *en un cuestionario, la calificación definitiva no le aparecerá al alumnado hasta que nosotros la corrijamos*. Vamos a crear una.
+[[./gif/pregunta_larga.gif]]
+
+Para corregirlas, deberemos dirigirnos al apartado ~Resultados~ dentro del cuestionario y seleccionar la opción ~Calificación manual~.
+[[./imagenes/calificacionmanual.png]]
+
+*¡IMPORTANTE!*: si permitimos al alumnado dejar esa respuesta abierta en blanco y no la contesta, la nota sí que se calculará automáticamente. Por esta razón no es de extrañar si en algún examen la nota aparece calculada a algunos estudiantes y a otros no. Los que hayan respondido, deberán esperar a que la revisemos los profes y la califiquemos.
+
 ** 3. Exportación e importación masiva de preguntas
+Para compartir preguntas entre distintos cursos, es habitual realizar las tareas de exportación e importación. 
+
+*** Exportar:
+[[./imagenes/exportar.png]]
+
+En este ejemplo vamos a exportar las dos preguntas creadas hasta ahora en formato Aiken. 
+[[./gif/exportar.gif]]
+
+*¿Por qué no nos ha exportado la pregunta abierta?*
+
+~Para saber cuál es el formato que nos conviene, es necesario conocer el tipo de preguntas que puede guardar cada uno. Prueba a exportar tus preguntas en los 4 formatos disponibles (Aiken, Gift, XHTML y XML de Moodle) y mira lo que pasa.
+
+- Formato Aiken: sólo es capaz de exportar preguntas de tipo respuesta múltiple (test).
+- Formato Gift: permite exportar preguntas de opción múltiple, verdadero/falso, respuesta corta, emparejamiento, completar huecos, preguntas numéricas y preguntas de respuesta abierta.
+- XHTML y XML de Moodle permiten la exportación de todo tipo de preguntas.~
+
+*** Importar: 
+
 ** 4. Configuración del libro de calificaciones
 ** 5. Exportación de resultados a hojas de cálculo
 ** 6. Feedback y correcciones sobre entregas realizadas
