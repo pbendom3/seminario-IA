@@ -101,9 +101,9 @@ El formato que vamos a utilizar es XML de Moodle para asegurarnos de que contien
 
 [[./gif/importar2.gif]]
 
-La importación de preguntas, además de servir para reutilizar en otros cursos preguntas que ya tenemos hechas, también está pensada para que creemos más rápido las preguntas (sobre todo las de tipo test) a partir del archivo generado en la exportación. ¡Es más rápido modificar un archivo que agregar preguntas usando la navegación de pantallas de AULES!
+~La importación de preguntas, además de servir para reutilizar en otros cursos preguntas que ya tenemos hechas, también está pensada para que creemos más rápido las preguntas (sobre todo las de tipo test) a partir del archivo generado en la exportación. ¡Es más rápido modificar un archivo que agregar preguntas usando la navegación de pantallas de AULES!~
 
-*TAREA: Agrega un par de preguntas a tu archivo exportado tipo Aiken y vuelve a importarlo. Comprueba que la información que has añadido aparece correctamente en el ~Banco de preguntas~.*
+*TAREA: Agrega un par de preguntas a tu archivo exportado tipo Aiken y vuelve a importarlo. Comprueba que la información que has añadido aparece correctamente en el Banco de preguntas.*
 
 ** 4. Configuración del libro de calificaciones
 ** 5. Exportación de resultados a hojas de cálculo
