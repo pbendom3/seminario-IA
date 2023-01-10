@@ -1,5 +1,5 @@
 * Evaluando con AULES.
-[[./imagenes/evaluacion.png]][[./imagenes/evaluacion2.png]]
+[[./imagenes/evaluacion2.png]]
 
 ** Índice
     - Creación de cuestionarios. 
