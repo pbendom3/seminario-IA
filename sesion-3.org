@@ -50,18 +50,18 @@ Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestiona
 [[./imagenes/bancopreguntas.png]]
 [[./imagenes/crearpregunta.png]]
 
-*** Crear preguntas
+*** - Crear preguntas
 [[./gif/Edita_les_preguntes.gif]]
 
-*** Insertar preguntas creadas en el cuestionario
+*** - Insertar preguntas creadas en el cuestionario
 [[./gif/insertar_preguntes.gif]]
 
-*** Categorías de las preguntas
+*** - Categorías de las preguntas
 Se pueden crear categorías para clasificar las preguntas y así tenerlas organizadas, por ejemplo, por temas. 
 
 [[./gif/categorias.gif]]
 
-*** Tipos de preguntas
+*** - Tipos de preguntas
 Llegado a este momento, ya has podido ver que existen multitud de tipos de preguntas: verdadero/falso, relacionar, completar huecos, respuesta larga, respuestas numéricas...
 
 Una consideración a tener en cuenta es que *si incluimos una pregunta de tipo* ~breve~ *o* ~abierta~ *en un cuestionario, la calificación definitiva no le aparecerá al alumnado hasta que nosotros la corrijamos*. Vamos a crear una.
@@ -77,7 +77,7 @@ Para corregirlas, deberemos dirigirnos al apartado ~Resultados~ dentro del cuest
 ** 3. Exportación e importación masiva de preguntas
 Para compartir preguntas entre distintos cursos, es habitual realizar las tareas de exportación e importación. 
 
-*** Exportar:
+*** - Exportar:
 [[./imagenes/exportar.png]]
 
 En este ejemplo vamos a exportar las dos preguntas creadas hasta ahora en formato Aiken. 
@@ -92,7 +92,7 @@ En este ejemplo vamos a exportar las dos preguntas creadas hasta ahora en format
 - Formato Gift: permite exportar preguntas de opción múltiple, verdadero/falso, respuesta corta, emparejamiento, completar huecos, preguntas numéricas y preguntas de respuesta abierta.
 - XHTML y XML de Moodle permiten la exportación de todo tipo de preguntas.
 
-*** Importar: 
+*** - Importar: 
 Para importar preguntas, abrimos un curso de AULES distinto al que estábamos creando las preguntas y realizamos el proceso inverso.
 
 [[./imagenes/importar.png]]
