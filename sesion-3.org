@@ -19,7 +19,7 @@
 - [[https://docs.moodle.org/all/es/Calificaciones][Documentación para libro de calificaciones Moodle]]
 
 
-** Contenidos
+** Contenidos:
 ** 1. Creación de cuestionarios. 
 ** 2. Importación masiva de preguntas. 
 ** 3. Configuración del libro de calificaciones.
