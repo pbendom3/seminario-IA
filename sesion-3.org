@@ -1,11 +1,16 @@
+[[./imagenes/sesion3.png]]
 * Evaluando con AULES.
-[[./imagenes/evaluacion2.png]]
+[[./imagenes/notas.png]]
+
+** Anécdota del día: [[https://twitter.com/Librosalaula/status/1495772788220702725?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1496238261181857792%7Ctwgr%5E20860437e44d4c8bef037d31abdc9ddd0b9aad7c%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fwww.telemadrid.es%2Fnoticias%2Fsociedad%2Fprofesora-corregir-examenes-arrasa-Twitter-0-2426457349--20220223120254.html][la profesora que corrije los exámenes usando memes]]
+[[./imagenes/memes.jpeg]]
 
 ** Índice
-    - Creación de cuestionarios. 
-    - Importación masiva de preguntas. 
-    - Configuración del libro de calificaciones.
-    - Feedback y correcciones sobre entregas realizadas.
+    1. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#1-creaci%C3%B3n-de-cuestionarios][Creación de cuestionarios.]] 
+    2. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#2-importaci%C3%B3n-masiva-de-preguntas][Importación masiva de preguntas.]]
+    3. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#3-configuraci%C3%B3n-del-libro-de-calificaciones][Configuración del libro de calificaciones.]]
+    4. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#4-exportaci%C3%B3n-de-resultados-a-hojas-de-c%C3%A1lculo][Exportación de resultados a hojas de cálculo.]]
+    5. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#5-feedback-y-correcciones-sobre-entregas-realizadas][Feedback y correcciones sobre entregas realizadas.]]
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
@@ -15,3 +20,8 @@
 
 
 ** Contenidos
+** 1. Creación de cuestionarios. 
+** 2. Importación masiva de preguntas. 
+** 3. Configuración del libro de calificaciones.
+** 4. Exportación de resultados a hojas de cálculo.
+** 5. Feedback y correcciones sobre entregas realizadas.
