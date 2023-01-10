@@ -58,16 +58,19 @@ Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestiona
 
 *** Categorías de las preguntas
 Se pueden crear categorías para clasificar las preguntas y así tenerlas organizadas, por ejemplo, por temas. 
+
 [[./gif/categorias.gif]]
 
 *** Tipos de preguntas
 Llegado a este momento, ya has podido ver que existen multitud de tipos de preguntas: verdadero/falso, relacionar, completar huecos, respuesta larga, respuestas numéricas...
 
 Una consideración a tener en cuenta es que *si incluimos una pregunta de tipo* ~breve~ *o* ~abierta~ *en un cuestionario, la calificación definitiva no le aparecerá al alumnado hasta que nosotros la corrijamos*. Vamos a crear una.
+
 [[./gif/pregunta_larga.gif]]
 
 Para corregirlas, deberemos dirigirnos al apartado ~Resultados~ dentro del cuestionario y seleccionar la opción ~Calificación manual~.
-[[./imagenes/calificacionmanual.png]]
+
+[[./imagenes/calificacion_manual.png]]
 
 *¡IMPORTANTE!*: si permitimos al alumnado dejar esa respuesta abierta en blanco y no la contesta, la nota sí que se calculará automáticamente. Por esta razón no es de extrañar si en algún examen la nota aparece calculada a algunos estudiantes y a otros no. Los que hayan respondido, deberán esperar a que la revisemos los profes y la califiquemos.
 
@@ -78,17 +81,29 @@ Para compartir preguntas entre distintos cursos, es habitual realizar las tareas
 [[./imagenes/exportar.png]]
 
 En este ejemplo vamos a exportar las dos preguntas creadas hasta ahora en formato Aiken. 
+
 [[./gif/exportar.gif]]
 
 *¿Por qué no nos ha exportado la pregunta abierta?*
 
-~Para saber cuál es el formato que nos conviene, es necesario conocer el tipo de preguntas que puede guardar cada uno. Prueba a exportar tus preguntas en los 4 formatos disponibles (Aiken, Gift, XHTML y XML de Moodle) y mira lo que pasa.
+~Para saber cuál es el formato que nos conviene, es necesario conocer el tipo de preguntas que puede guardar cada uno. Prueba a exportar tus preguntas en los 4 formatos disponibles (Aiken, Gift, XHTML y XML de Moodle) y mira lo que pasa.~
 
 - Formato Aiken: sólo es capaz de exportar preguntas de tipo respuesta múltiple (test).
 - Formato Gift: permite exportar preguntas de opción múltiple, verdadero/falso, respuesta corta, emparejamiento, completar huecos, preguntas numéricas y preguntas de respuesta abierta.
-- XHTML y XML de Moodle permiten la exportación de todo tipo de preguntas.~
+- XHTML y XML de Moodle permiten la exportación de todo tipo de preguntas.
 
 *** Importar: 
+Para importar preguntas, abrimos un curso de AULES distinto al que estábamos creando las preguntas y realizamos el proceso inverso.
+
+[[./imagenes/importar.png]]
+
+El formato que vamos a utilizar es XML de Moodle para asegurarnos de que contiene todo tipo de preguntas, sin ningún tipo de limitación.
+
+[[./gif/importar2.gif]]
+
+La importación de preguntas, además de servir para reutilizar en otros cursos preguntas que ya tenemos hechas, también está pensada para que creemos más rápido las preguntas (sobre todo las de tipo test) a partir del archivo generado en la exportación. ¡Es más rápido modificar un archivo que agregar preguntas usando la navegación de pantallas de AULES!
+
+*TAREA: Agrega un par de preguntas a tu archivo exportado tipo Aiken y vuelve a importarlo. Comprueba que la información que has añadido aparece correctamente en el ~Banco de preguntas~.*
 
 ** 4. Configuración del libro de calificaciones
 ** 5. Exportación de resultados a hojas de cálculo
