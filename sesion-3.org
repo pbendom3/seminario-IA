@@ -8,7 +8,7 @@
 ** Índice
     1. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#1-creaci%C3%B3n-de-cuestionarios][Creación de cuestionarios.]] 
     2. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#2-banco-de-preguntas][Banco de preguntas.]]
-    3. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#3-importaci%C3%B3n-masiva-de-preguntas][Importación masiva de preguntas.]]
+    3. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#3-importaci%C3%B3n-masiva-de-preguntas][Exportación e importación masiva de preguntas.]]
     4. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#4-configuraci%C3%B3n-del-libro-de-calificaciones][Configuración del libro de calificaciones.]]
     5. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#5-exportaci%C3%B3n-de-resultados-a-hojas-de-c%C3%A1lculo][Exportación de resultados a hojas de cálculo.]]
     6. [[https://github.com/pbendom/curso-TIC/edit/main/sesion-3.org#6-feedback-y-correcciones-sobre-entregas-realizadas][Feedback y correcciones sobre entregas realizadas.]]
@@ -25,6 +25,7 @@
 Como docentes, el uso de cuestionarios interactivos nos es interesante sobre todo a la hora de corregir. Cuando realicemos exámenes fácilmente autocorregibles, es conveniente que usemos este tipo de cuestionarios facilitados por la herramienta AULES. 
 
 Para crear uno, basta con añadir una actividad nueva de tipo ~Cuestionario~:
+
 [[./imagenes/cuestionario.png]]
 
 En la configuración de una actividad de tipo cuestionario, además del nombre y la descripción, tendremos que rellenar los siguientes campos:
@@ -46,7 +47,17 @@ En la configuración de una actividad de tipo cuestionario, además del nombre y
 Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestionario~ para añadir las preguntas que necesitemos. Para poder hacerlo, deberemos tenerlas antes creadas en el ~Banco de preguntas~. Vemos como funciona a continuación.
 
 ** 2. Banco de preguntas
-** 3. Importación masiva de preguntas
+[[./imagenes/bancopreguntas.png]]
+[[./imagenes/crearpregunta.png]]
+
+*** Crear preguntas
+[[./gif/Edita_les_preguntes.gif]]
+
+*** Categorías
+
+*** Las preguntas se comparten entre distintos sabores de AULES
+
+** 3. Exportación e importación masiva de preguntas
 ** 4. Configuración del libro de calificaciones
 ** 5. Exportación de resultados a hojas de cálculo
 ** 6. Feedback y correcciones sobre entregas realizadas
