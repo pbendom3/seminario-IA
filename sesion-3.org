@@ -54,7 +54,7 @@ Una vez configurados todos los campos anteriores, deberemos ~Editar el cuestiona
 [[./gif/Edita_les_preguntes.gif]]
 
 *** Insertar preguntas creadas en el cuestionario
-[[./gif/insertar_preguntas.gif]]
+[[./gif/insertar_preguntes.gif]]
 
 *** Categorías de las preguntas
 
