@@ -127,3 +127,18 @@ Una vez dentro, tendremos la opción de elegir el formato en el que queremos exp
 https://drive.google.com/file/d/1-e-8fkWCoCB6juCZWrQvoPT-VIo9aQcV/view
 
 ** 7. Uso de escalas 
+Las escalas nos permiten asignar calificaciones a nuestro gusto. Por ejemplo, si quisiéramos evaluar en formato LOMLOE, podríamos definir una escala con los siguientes valores: INSUFICIENTE, SUFICIENTE, BIEN, NOTABLE, EXCELENTE.
+
+Para hacerlo, debemos dirigirnos otra vez al apartado de ~Calificaciones~ y entrar en la pestaña de ~Escalas~.
+
+[[./imagenes/escalas.png]]
+
+Una vez dentro, veremos todas las que AULES trae definidas por defecto. Como la que necesitamos no existe, vamos a crearla.
+
+[[./imagenes/escala_nueva.png]]
+
+[[./gif/escala.gif]]
+
+Una vez creada, vamos a asignarla a una tarea calificable para comprobar que funciona correctamente.
+
+[[./gif/escala_ok.gif]]
