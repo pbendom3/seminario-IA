@@ -120,8 +120,7 @@ Una vez dentro, tendremos la opción de elegir el formato en el que queremos exp
 
 [[./imagenes/excel.png]]
 
-
-
+[[./gif/exportar_notas.gif]]
 
 ** 6. Feedback y correcciones sobre entregas realizadas
 ** 7. Uso de escalas 
