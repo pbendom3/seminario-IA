@@ -112,5 +112,16 @@ https://drive.google.com/file/d/1orc3bTqznoyJlFwaui459luPBfz3y55v/view
 https://drive.google.com/file/d/1cv_y_zbwcpdihvDz6JXQVgyhxuyOhKX5/view
 
 ** 5. Exportación de resultados a hojas de cálculo
+Para exportar los datos de calificaciones creadas por AULES para su manipulación desde Excel, por ejemplo, contamos con una pestaña dentro del apartado de ~Calificaciones~ visto en el apartado anterior:
+
+[[./imagenes/exportar_notas.png]]
+
+Una vez dentro, tendremos la opción de elegir el formato en el que queremos exportar la información. Además, también podremos filtrar las actividades que queremos que aparezcan en el informe (es posible que no nos interese exportar las calificaciones de todo el curso, por ejemplo, solamente de un tema).
+
+[[./imagenes/excel.png]]
+
+
+
+
 ** 6. Feedback y correcciones sobre entregas realizadas
 ** 7. Uso de escalas 
