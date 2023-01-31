@@ -4,17 +4,17 @@
 [[./imagenes/backup.png]]
 
 ** Índice
-    - Copia de seguridad del curso. 
-    - Restauración de cursos. 
-    - Importación de tareas. 
-    - Calendario de eventos. 
-    - Informes y registros de AULES.
+    1. Copia de seguridad del curso. 
+    2. Restauración de cursos. 
+    3. Importación de tareas. 
+    4. Plugins. 
+    5. Informes y registros de AULES.
    
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 - [[https://moodle.org/?lang=es][Acceso a web oficial de Moodle]] 
 - [[https://docs.moodle.org/all/es/16/Copia_de_seguridad_del_Curso_(1.6)][Copias de seguridad doc. Moodle]] 
-
+- [[https://docs.moodle.org/all/es/19/Restaurar_un_curso][Doc sobre restauración de cursos]]
 
 ** Contenidos
 ** 1. Copia de seguridad del curso 
@@ -39,8 +39,23 @@ Normalmente, en un curso normal de Moodle no tenemos que preocuparnos de hacer c
     [[./imagenes/copia_seguridad.png]]
 
 ** 2. Restauración de cursos
+Si nos fijamos bien en la lista de copias de seguridad creadas, vemos que aparecen TODAS las copias de seguridad para el usuario. Es decir, que no solamente aparece la del curso que acabamos de guardar, sino que desde el mismo panel de copias de seguridad podemos acceder a todas las copias que hayamos hecho con nuestro usuario (independientemente del curso en el que nos encontremos).
+
+    [[./imagenes/lista.png]]
+    
+Cada vez que necesitemos restaurar la información de un curso por cualquier motivo, desde el apartado ~Restaura~ las tendremos todas disponibles. Así, por ejemplo, si tenemos una estructura definida para 3º ESO y la queremos reutilizar todos los años, al inicio de curso en septiembre bastará con crear el nuevo curso desde ITACA y acudir al menú de copias de seguridad para restaurar la copia que tengamos. De esta forma, cargaremos la estructura del curso anterior y sobre ella podremos ir mejorando cosas.
+
+https://drive.google.com/file/d/1EZyUiYk6PByUvaa5GLtQQq50E6YtWTKC/view
+
+*IMPORTANTE:* A pesar de que en AULES se hace un borrado de cursos todos los años, ¡las copias de seguridad siguen existiendo! 
 
 ** 3. Importación de tareas
+Otra funcionalidad que nos interesa para compartir recursos ya creados es la de Importación de tareas. 
+
+[[./gif/importacion.gif]]
+
+*OJO:* ¡sólo funciona entre tareas dentro de un mismo sabor! Es decir, si queremos llevarnos una actividad desde un curso de la ESO a Bachillerato no funcionará.
+
 
 ** 4. Plugins
 
