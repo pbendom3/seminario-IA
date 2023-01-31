@@ -65,3 +65,9 @@ Con el menú ~Edición~ del curso activado, podemos añadir bloques / plugins pa
 [[./imagenes/calendario.png]]
 
 ** 5. Informes y registros de AULES
+Por último, es interesante conocer que tenemos herramientas para saber si el alumnado visita nuestros materiales, entrega sus tareas, etc. Se puede monitorizar todos los registros que van dejando a través de los Informes que AULES proporciona.
+
+[[./imagenes/informes.png]]
+[[./imagenes/registres.png]]
+
+Por ejemplo, si un estudiante no entrega alguna tarea y pone excusas,... ¡miremos si la ha abierto por lo menos! 
