@@ -1,3 +1,5 @@
+[[./imagenes/sesio6.png]]
+
 * Gestión de la información creada en AULES.
 [[./imagenes/backup.png]]
 
@@ -23,16 +25,18 @@ Normalmente, en un curso normal de Moodle no tenemos que preocuparnos de hacer c
 *** Cómo hacer una copia de seguridad del curso
 
     Paso 1. Como profesor o administrador, ir a la página principal del curso que desea copiar.
-    Paso 2. Hacer clic en enlace de "Copia de seguridad..." desde el bloque de Administración.
+    Paso 2. Hacer clic en enlace de ~"Copia de seguridad..."~ desde el bloque de ~Administración~.
     Paso 3. Desde la pantalla de configuración podemos seleccionar los contenidos (actividades y usuarios) a incluir en la copia de seguridad mediante los desplegables.
-    Paso 4. Pulsar en Continuar
+    Paso 4. Pulsar en ~Continuar~
     Paso 5. Después, podemos editar el nombre de la copia de seguridad y ver el listado de los contenidos (actividades y usuarios) incluidos.
-    Paso 6. Pulsar en continuar, al final de la página.
+    Paso 6. Pulsar en ~continuar~, al final de la página.
     Paso 7. En la siguiente ventana nos da un listado de las acciones realizadas y, al final, nos indica el resultado de la copia. Pulsamos en continuar.
 
-    Finalmente, nos muestra el archivo que contiene la copia de seguridad. *Nos interesará GUARDAR el archivo .mbz generado por AULES para poder restaurarlo en cursos posteriores*.
+[[./gif/copia_seguridad.gif]]
+
+    Finalmente, nos muestra el archivo que contiene la copia de seguridad. *Nos interesará DESCARGAR el archivo .mbz generado por AULES para poder restaurarlo en cursos posteriores*.
     
-    
+    [[./imagenes/copia_seguridad.png]]
 
 ** 2. Restauración de cursos
 
