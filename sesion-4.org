@@ -57,6 +57,11 @@ Otra funcionalidad que nos interesa para compartir recursos ya creados es la de 
 *OJO:* ¡sólo funciona entre tareas dentro de un mismo sabor! Es decir, si queremos llevarnos una actividad desde un curso de la ESO a Bachillerato no funcionará.
 
 
-** 4. Plugins
+** 4. Bloques
+Con el menú ~Edición~ del curso activado, podemos añadir bloques / plugins para dar más contenido a la estructura de nuestro curso. Por ejemplo, un calendario de eventos cercanos.
+
+[[./imagenes/bloques.png]]
+[[./imagenes/bloques2.png]]
+[[./imagenes/calendario.png]]
 
 ** 5. Informes y registros de AULES
