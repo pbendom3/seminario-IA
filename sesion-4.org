@@ -11,6 +11,33 @@
 ** Referencias
 - [[https://aules.edu.gva.es/][Link de acceso a AULES]]
 - [[https://moodle.org/?lang=es][Acceso a web oficial de Moodle]] 
+- [[https://docs.moodle.org/all/es/16/Copia_de_seguridad_del_Curso_(1.6)][Copias de seguridad doc. Moodle]] 
 
 
 ** Contenidos
+** 1. Copia de seguridad del curso 
+Normalmente, en un curso normal de Moodle no tenemos que preocuparnos de hacer copias de seguridad si el administrador las hace habitualmente. Pero en AULES, dado que estos cursos se borran cada año, es una buena práctica realizar algunas copias de seguridad y guardarlas en nuestro ordenador.
+
+*IMPORTANTE:* AULES no permite hacer copias de seguridad con datos de nuestro alumnado, ¡sólo de tareas y la estructura del curso!
+
+*** Cómo hacer una copia de seguridad del curso
+
+    Paso 1. Como profesor o administrador, ir a la página principal del curso que desea copiar.
+    Paso 2. Hacer clic en enlace de "Copia de seguridad..." desde el bloque de Administración.
+    Paso 3. Desde la pantalla de configuración podemos seleccionar los contenidos (actividades y usuarios) a incluir en la copia de seguridad mediante los desplegables.
+    Paso 4. Pulsar en Continuar
+    Paso 5. Después, podemos editar el nombre de la copia de seguridad y ver el listado de los contenidos (actividades y usuarios) incluidos.
+    Paso 6. Pulsar en continuar, al final de la página.
+    Paso 7. En la siguiente ventana nos da un listado de las acciones realizadas y, al final, nos indica el resultado de la copia. Pulsamos en continuar.
+
+    Finalmente, nos muestra el archivo que contiene la copia de seguridad. *Nos interesará GUARDAR el archivo .mbz generado por AULES para poder restaurarlo en cursos posteriores*.
+    
+    
+
+** 2. Restauración de cursos
+
+** 3. Importación de tareas
+
+** 4. Plugins
+
+** 5. Informes y registros de AULES
