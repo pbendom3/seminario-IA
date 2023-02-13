@@ -1,0 +1,150 @@
+[[./imagenes/seminario111.PNG]]
+* Configuración de correo electrónico y herramientas corporativas M365.
+[[./imagenes/id_digital.png]]
+
+** Índice
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Configuración del correo electrónico de Google (@iesmutxamel.com).]]  
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][ Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#3-cuenta-y-apps-office365][Cuenta y apps Office365.]] 
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#4-conexi%C3%B3n-office365-con-aules][Conexión Office365 con AULES.]] 
+   
+** Referencias y links
+- [[https://mail.google.com/mail][Acceso a GMAIL]]
+- [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre etiquetas de Gmail]]
+- [[https://support.google.com/mail/answer/6579?hl=es][Documentación sobre filtros de Gmail]]
+- [[https://support.google.com/mail/answer/8395?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre firmas de Gmail]]
+- [[https://support.google.com/a/users/answer/9308853?hl=es][Documentación sobre grupos de contactos de Gmail]]
+- [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
+- [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
+- [[https://aules.edu.gva.es/][Link de acceso a AULES]]
+
+
+** 1. Configuración del correo electrónico de Google (@iesmutxamel.com)
+
+*** Creación de Etiquetas
+Dada la cantidad de información variada que recibimos todos los días en nuestro email, las [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][etiquetas]] son un recurso para ayudar a organizar nuestros correos electrónicos de forma que se puedan clasificar por temática, curso, nivel educativo, etc,...
+
+Vamos a crear una etiqueta para gestionar los correos que recibamos de este seminario. Para ello, nos dirigimos a [[https://mail.google.com/mail][GMAIL]] con nuestra cuenta de organización del IES MUTXAMEL.
+
+Una vez dentro, seguiremos los siguientes pasos:
+
+[[./gif/etiquetas.gif]]
+
+
+*** Filtros de correo
+Vale, ya tengo la etiqueta creada... ¡¿y ahora qué?!
+
+Podríamos pasarnos un rato arrastrando correos relacionados con este seminario dentro de la etiqueta, pero... ¿¿y si lo hace una máquina por nosotros??
+
+Para automatizar el proceso de organización de nuestro correo podemos usar los [[https://support.google.com/mail/answer/6579?hl=es][filtros]]. Esta funcionalidad nos permite que Google detecte cuando recibimos un correo con ciertas características que nosotros definimos, y los inserte directamente en la etiqueta que les corresponda. 
+
+Vamos a configurar un filtro de ejemplo para que en cuanto recibamos un correo con el asunto "seminario TIC" vaya directo a la etiqueta ~Seminario TIC~ que acabamos de crear.
+
+[[./gif/filtros.gif]]
+
+*Vas a recibir un correo por mi parte que contenga en el asunto el texto "seminario TIC". ¡Comprueba que tu filtro funciona correctamente!*
+
+
+*** Configuración de la firma
+Una firma de correo es texto (por ejemplo, tu información de contacto o tu cita favorita) que se añade de forma automática al final de todos los mensajes de Gmail que envías, a modo de pie de página.
+
+Un ejemplo,
+
+[[./imagenes/firma.PNG]]
+
+Crea tu propia firma y haz que cada vez que redactes un correo nuevo aparezca en el pie. Usa el formato que quieras (texto, colores, imágenes,...), pero incluye al menos tu nombre y apellidos, departamento o especialidad a la que perteneces y los [[./imagenes/logos_tarea.PNG][logos]] del instituto. Para ello, sigue los siguientes pasos:
+
+[[./gif/firma.gif]]
+
+*Para comprobar que lo has hecho todo bien, redacta un correo nuevo que incluya tu firma y envíalo a* ~p.benaventedomenec@edu.gva.es~.
+
+
+*** Creación de grupos de contactos dentro de una organización
+~1ºCFS DAW BAJA ALUMNO~
+
+~INFORMACIÓN ALUMNA 1º ESO A~
+
+~PARA PROFESORADO 3º A~
+
+¡¿Cuántos correos de este tipo has recibido?!
+
+La mayoría de correos que recibimos durante el día contienen información que no es de nuestro interés, ¡ya que no damos clase a TODOS los grupos! ¿Cómo podemos hacer un buen uso de los correos masivos?
+
+Gmail nos lo pone fácil con la posibilidad de crear [[https://support.google.com/a/users/answer/9308853?hl=es][grupos de contactos]] según nuestras necesidades, de modo que podamos gestionar más eficientemente la forma en la que nos comunicamos con nuestros compañeros y no saturarlos de información poco relevante en nuestro día a día. 
+
+Vamos a crear un grupo que incluya solamente a los asistentes a este seminario:
+
+[[./gif/contactos.gif]]
+
+Para consultar el grupo creado, accede a tus [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]] y comprueba que aparece.
+[[./imagenes/contactos.PNG]]
+
+*Redacta un correo nuevo e inserta como destinatario el nombre del grupo que acabas de crear para probar que aparecen todos tus compañeros.*
+
+
+*** Creación de grupos de contactos a partir de datos registrados en AULES
+Vale, ya tengo a mis compañeros fichados, pero... ¿qué pasa con mi alumnado?
+
+Si necesitamos enviar correos a nuestro alumnado, AULES nos lo pone fácil. Podemos descargar los datos de los usuarios matriculados en un curso, de forma que desde la aplicación [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]] de Google podamos importarlos y gestionarlos igual que si se tratara de un grupo dentro de una misma organización. 
+
+Vamos a hacerlo:
+ 
+ *Paso 1.* Descargar datos en formato .CSV desde AULES:
+ [[./gif/alum_aules.gif]]
+ 
+ *Paso 2.* Cargar datos en la app de [[https://contacts.google.com/u/1/?hl=es&tab=mC][Contactos]]:
+  [[./gif/alumnos2.gif]]
+  
+*Redacta un correo nuevo e inserta como destinatario el nombre del grupo de alumnado que acabas de crear para probar que aparecen los estudiantes del curso esperados.*
+
+[[./imagenes/alumnado.PNG]]
+
+
+** 2. Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
+Si todavía no lo has hecho, configura tu cuenta de correo corporativo GVA replicando este [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][tutorial]].
+
+** 3. Cuenta y apps Office365
+Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
+
+[[./imagenes/office365.PNG]]
+[[./imagenes/office365_2.PNG]]
+
+*** [[https://outlook.office365.com/mail/][OUTLOOK]]
+
+*** [[https://gvaedu-my.sharepoint.com/personal][OneDrive]] 
+
+*** [[https://teams.microsoft.com/_#/discover][Teams]]  
+
+*** [[https://outlook.office.com/calendar/view/month][Calendario]]
+
+*** [[https://to-do.office.com/tasks/today?][To Do]] 
+
+
+** 4. Conexión Office365 con AULES
+Podemos conectar nuestras aplicaciones de Microsoft con AULES. De esta forma, podremos enlazar directamente archivos contenidos en nuestras carpetas de OneDrive, sincronizar el calendario, etc.
+
+[[./imagenes/officeAULES.PNG]]
+
+[[./imagenes/ficheros_office.PNG]]
+
+
+** Tareas
+   Realiza las tareas que se indican a continuación. Incluye las *capturas de pantalla* que se pidan en un documento tipo *LibreOffice* o *Word*.
+
+   Las tareas a realizar son:
+
+*** GMAIL
+   1. Crea una etiqueta nueva llamada "Seminario TIC".
+   2. Filtra los correos que contengan el texto "seminario TIC" en el asunto para que se clasifiquen automáticamente dentro de la etiqueta creada en el punto 1.
+   3. Crear una firma personal que contenga los siguientes elementos:
+      1) Nombre y Apellidos.
+      2) Departamento al que pertenecéis.
+      3) Logos corporativos. Descárgalos [[./imagenes/logos_tarea.PNG][aquí]].
+   4. Crea un grupo de contactos con el profesorado asistente a este seminario.  
+   5. Crea un grupo de contactos con alumnado exportando los datos desde algún curso de AULES que hayas creado con anterioridad.
+   
+*** OUTLOOK
+   Repite los puntos 1, 2 y 3 con tu cuenta de correo corporativo ~@edu.gva.es~.
+
+*** Entrega de la tarea
+    Guarda el fichero con las capturas en formato *PDF* y nómbralo según el patrón ~APELLIDOS_NOMBRE_sesion1.pdf~. Súbelo a la nube de tu cuenta de OneDrive y comparte el enlace al archivo conmigo ~p.benaventedomenec@edu.gva.es~.
