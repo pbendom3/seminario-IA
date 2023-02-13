@@ -42,7 +42,7 @@ Para descargarlo: https://obsproject.com/es/download
 ** 3. Grabación de pantalla con Screencastify (extensión web de Chrome).
 [[./imagenes/screencastify.png]]
 
-*Screencastify* (https://www.screencastify.com/) es una extensión creada por Google que facilita la grabación de pantalla, edición y publicación de un video, que generalmente tienden a ser tutoriales.
+*Screencastify* (https://www.screencastify.com/) es una extensión creada por Google que facilita la grabación de pantalla, edición y publicación de un vídeo, que generalmente tienden a ser tutoriales.
 
-Lo mejor de todo es que una vez que haces los videos puedes guardarlos en tu cuenta de Google Drive o publicarlo directamente en YouTube. Podremos procesar el video y exportarlo desde la propia extensión en formato MP4, audio MP3 e incluso podremos realizar GIF para usarlo en redes sociales como Twitter.
+Lo mejor de todo es que una vez creados los vídeos podemos guardarlos en nuestra cuenta de Google Drive o publicarlo directamente en YouTube. Podremos procesar el vídeo y exportarlo desde la propia extensión en formato MP4, audio MP3 e incluso podremos realizar GIF para usarlo en redes sociales como Twitter.
 
