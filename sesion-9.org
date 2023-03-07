@@ -4,9 +4,10 @@
 
 ** Índice
     1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Metodología general de trabajo colaborativo digitalizado. Seguimiento de tareas creadas con Teams y Planner. Trello.]]
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Google Drive.]]
-    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Herramientas corportativas M365.]]
-    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Padlet. https://intef.es/observatorio_tecno/padlet/]]
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Seguimiento de tareas creadas con Teams y Planner. Trello.]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Generación de contenido compartido con aplicaciones M365.]]
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Generación de contenido compartido con Google Drive.]]
+    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Pizarras colaborativas: Padlet.]]
    
 ** Referencias y links
 - [[https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_3962345294?context=%7B%22subEntityId%22%3Anull%2C%22chatId%22%3A%2219%3A9c46ad6686bb4e1e9cb180be2c575339%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=73dd1114-ef7d-40c7-8669-569d32e7e29b&allowXTenantAccess=false][Pestaña de acceso a OneNote con info de herramientas en Teams.]]
@@ -19,13 +20,13 @@
 - [[https://www.screencastify.com/][Screencastify.]]
 
 
-** 1. Herramientas web para generar contenido digital.
+** 1. Metodología general de trabajo colaborativo digitalizado.
 
 [[https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_3962345294?context=%7B%22subEntityId%22%3Anull%2C%22chatId%22%3A%2219%3A9c46ad6686bb4e1e9cb180be2c575339%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=73dd1114-ef7d-40c7-8669-569d32e7e29b&allowXTenantAccess=false][Pestaña de acceso a OneNote con info de herramientas en Teams.]]
 
 
-** 2. Grabación de pantalla con OBS Studio (app).
-[[./imagenes/obs.png]]
+** 2. Seguimiento de tareas creadas con Teams y Planner. Trello.
+[[./imagenes/kanban.jpg]]
 
 *OBS Studio (Open Broadcaster Software)* es un programa de grabación de vídeo que te permite hacer tutoriales, grabar la pantalla de tu PC, realizar webinars, directos, etc. 
 
@@ -40,9 +41,14 @@ Y gracias a esta herramienta es posible crear producciones muy avanzadas de form
 
 Para descargarlo: https://obsproject.com/es/download
 
-** 3. Grabación de pantalla con Screencastify (extensión web de Chrome).
+** 3. Generación de contenido compartido con aplicaciones M365.
 [[./imagenes/screencastify.png]]
 
 *Screencastify* (https://www.screencastify.com/) es una extensión creada por Google que facilita la grabación de pantalla, edición y publicación de un vídeo, que generalmente tienden a ser tutoriales.
 
 Lo mejor de todo es que una vez creados los vídeos podemos guardarlos en nuestra cuenta de Google Drive o publicarlo directamente en YouTube. Podremos procesar el vídeo y exportarlo desde la propia extensión en formato MP4, audio MP3 e incluso podremos realizar GIF para usarlo en redes sociales como Twitter.
+
+** 4. Generación de contenido compartido con Google Drive.
+
+** 5. Pizarras colaborativas: Padlet.
+https://intef.es/observatorio_tecno/padlet/
