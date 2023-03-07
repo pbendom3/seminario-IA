@@ -49,14 +49,18 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 *** Planner
 
 *Crear plan y tareas:*
+
 [[./gif/tarea_planner.gif]]
 
 *Configuración de la tarea:*
+
 [[./gif/tarea_planner2.gif]]
 
 
 *** Integrar Planner en un equipo de Microsoft Teams
 [[./imagenes/planner_teams.jpg]]
+[[./gif/planner_teams.gif]]
+
 
 *** Otra opción: Trello.
 
