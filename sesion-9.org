@@ -25,18 +25,21 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 
 *Fases por las que suelen pasar los proyectos / actividades / situaciones de aprendizaje:*
 
-    - Fase 1: Presentación del enunciado y objetivos del proyecto / actividad. 
-    - Fase 2: Formación de grupos de trabajo.
-    - Fase 3: Desglose y reparto de tareas.
-    - Fase 4: Realización de las tareas.
-    - Fase 5: Documentación del trabajo realizado.
-    - Fase 6: Presentación y entrega del trabajo.
-    - Fase 7: Evaluación.
+    - Fase 1: Presentación del enunciado y objetivos del proyecto / actividad. (Usar herramientas de generación de contenido digital vistas anteriormente).
+    - Fase 2: Formación de grupos de trabajo. 
+    - Fase 3: Desglose y reparto de tareas. (Teams, Planner, Trello).
+    - Fase 4: Realización de las tareas. 
+    - Fase 5: Documentación del trabajo realizado. (Herramientas de generación de contenido digital colaborativo, M365, Drive, y online vistas como Canva, Prezi, Genially,...).
+    - Fase 6: Presentación y entrega del trabajo. (Herramientas de generación de contenido digital colaborativo, M365, Drive, y online vistas como Canva, Prezi, Genially,...).
+    - Fase 7: Evaluación. 
    
   Para cada una de estas fases, podremos utilizar diferentes herramientas que veremos a continuación.
 
 
 ** 2. Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.
+[[./gif/tarea_nueva.gif]]
+
+*** Evaluación de tareas de Teams.
 
 
 *** Usar Planner en un equipo de Microsoft Teams
