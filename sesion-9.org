@@ -1,0 +1,47 @@
+[[./imagenes/sesion9.png]]
+* Generación de contenido digital. H5P. Herramientas digitales para metodología de clase invertida (Flipped Classroom).
+[[./imagenes/fliped.png]]
+
+** Índice
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Herramientas web para generar contenido digital.]]  
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Grabación de pantalla con Screencast (app).]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Grabación de pantalla con Screencastify (extensión web de Chrome).]]
+   
+** Referencias y links
+- [[https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_3962345294?context=%7B%22subEntityId%22%3Anull%2C%22chatId%22%3A%2219%3A9c46ad6686bb4e1e9cb180be2c575339%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=73dd1114-ef7d-40c7-8669-569d32e7e29b&allowXTenantAccess=false][Pestaña de acceso a OneNote con info de herramientas en Teams.]]
+- [[https://edpuzzle.com/ ][EdPuzzle.]]
+- [[https://genial.ly/es/][Genially.]]
+- [[https://www.canva.com/][Canva.]]
+- [[https://h5p.org/][H5P.]]
+- [[https://kahoot.com/es/][Kahoot!]] 
+- [[https://obsproject.com/es][OBS Studio.]] 
+- [[https://www.screencastify.com/][Screencastify.]]
+
+
+** 1. Herramientas web para generar contenido digital.
+
+[[https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_3962345294?context=%7B%22subEntityId%22%3Anull%2C%22chatId%22%3A%2219%3A9c46ad6686bb4e1e9cb180be2c575339%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=73dd1114-ef7d-40c7-8669-569d32e7e29b&allowXTenantAccess=false][Pestaña de acceso a OneNote con info de herramientas en Teams.]]
+
+
+** 2. Grabación de pantalla con OBS Studio (app).
+[[./imagenes/obs.png]]
+
+*OBS Studio (Open Broadcaster Software)* es un programa de grabación de vídeo que te permite hacer tutoriales, grabar la pantalla de tu PC, realizar webinars, directos, etc. 
+
+Además de las funciones de grabación, OBS Studio también permite realizar transmisiones en directo en varias plataformas a la vez como Youtube, Twitch, Facebook, Instagram…
+
+Y gracias a esta herramienta es posible crear producciones muy avanzadas de forma sencilla:
+
+- Podremos configurar diferentes escenas y transicional entre unas y otras en tus grabaciones o retransmisiones,
+- Podremos crear marcos u overlays que le den un toque más profesional a tus vídeos.
+- Y podremos utilizar webcam, cámaras externas e incluso tu móvil para grabar o retransmitir.
+- Además, permite utilizar su cámara virtual y para conectarnos a plataformas como Zoom, Google Meets, Teams, Skype, etc.
+
+Para descargarlo: https://obsproject.com/es/download
+
+** 3. Grabación de pantalla con Screencastify (extensión web de Chrome).
+[[./imagenes/screencastify.png]]
+
+*Screencastify* (https://www.screencastify.com/) es una extensión creada por Google que facilita la grabación de pantalla, edición y publicación de un vídeo, que generalmente tienden a ser tutoriales.
+
+Lo mejor de todo es que una vez creados los vídeos podemos guardarlos en nuestra cuenta de Google Drive o publicarlo directamente en YouTube. Podremos procesar el vídeo y exportarlo desde la propia extensión en formato MP4, audio MP3 e incluso podremos realizar GIF para usarlo en redes sociales como Twitter.
