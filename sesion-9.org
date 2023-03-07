@@ -68,7 +68,6 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 [[./gif/trello_teams.gif]]
 
 ** 3. Generación de contenido compartido con aplicaciones M365.
-[[./imagenes/screencastify.png]]
 
 Meter Sway
 
