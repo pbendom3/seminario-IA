@@ -4,7 +4,7 @@
 
 ** Índice
     1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#1-metodolog%C3%ADa-general-en-las-fases-de-abp-y-trabajo-colaborativo-digitalizado][Metodología general en las fases de ABP y trabajo colaborativo digitalizado.]]
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#2-seguimiento-de-tareas-creadas-con-teams-y-planner-trello][Seguimiento de tareas creadas con Teams y Planner. Trello.]]
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#2-seguimiento-de-tareas-creadas-con-teams-y-planner-trello][Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.]]
     3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#3-generaci%C3%B3n-de-contenido-compartido-con-aplicaciones-m365][Generación de contenido compartido con aplicaciones M365.]]
     4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#4-generaci%C3%B3n-de-contenido-compartido-con-google-drive][Generación de contenido compartido con Google Drive.]]
     5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#5-pizarras-colaborativas-padlet][Pizarras colaborativas: Padlet.]]
@@ -36,10 +36,11 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
   Para cada una de estas fases, podremos utilizar diferentes herramientas que veremos a continuación.
 
 
-** 2. Seguimiento de tareas de un proyecto con Teams y Planner. Trello.
-[[./imagenes/kanban.jpg]]
+** 2. Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.
+
 
 *** Usar Planner en un equipo de Microsoft Teams
+[[./imagenes/planner_teams.jpg]]
 
 *** Otra opción: Trello.
 
