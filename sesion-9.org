@@ -40,6 +40,9 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 [[./gif/tarea_nueva.gif]]
 
 *** Evaluación de tareas de Teams.
+[[./gif/evaluar_tarea.gif]]
+
+*¡OJO a Calificación individual y Calificación grupal!*
 
 
 *** Usar Planner en un equipo de Microsoft Teams
