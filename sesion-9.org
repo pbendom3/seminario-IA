@@ -37,6 +37,8 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 
 
 ** 2. Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.
+
+*** Teams
 [[./gif/tarea_nueva.gif]]
 
 *** Evaluación de tareas de Teams.
@@ -44,7 +46,16 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 
 ¡OJO a ~Calificación individual~ y ~Calificación grupal~!
 
-*** Usar Planner en un equipo de Microsoft Teams
+*** Planner
+
+*Crear plan y tareas:*
+[[./gif/tarea_planner.gif]]
+
+*Configuración de la tarea:*
+[[./gif/tarea_planner2.gif]]
+
+
+*** Integrar Planner en un equipo de Microsoft Teams
 [[./imagenes/planner_teams.jpg]]
 
 *** Otra opción: Trello.
