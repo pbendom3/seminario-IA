@@ -3,7 +3,7 @@
 [[./imagenes/colaborativo.jpeg]]
 
 ** Índice
-    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Metodología general de trabajo colaborativo digitalizado. Seguimiento de tareas creadas con Teams y Planner. Trello.]]
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Metodología general en las fases de ABP y trabajo colaborativo digitalizado.]]
     2. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Seguimiento de tareas creadas con Teams y Planner. Trello.]]
     3. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Generación de contenido compartido con aplicaciones M365.]]
     4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Generación de contenido compartido con Google Drive.]]
