@@ -21,7 +21,19 @@
 
 ** 1. Metodología general en las fases de ABP y trabajo colaborativo digitalizado.
 
-[[https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_3962345294?context=%7B%22subEntityId%22%3Anull%2C%22chatId%22%3A%2219%3A9c46ad6686bb4e1e9cb180be2c575339%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&tenantId=73dd1114-ef7d-40c7-8669-569d32e7e29b&allowXTenantAccess=false][Pestaña de acceso a OneNote con info de herramientas en Teams.]]
+De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que como docentes demos el paso de implementar herramientas en el aula que faciliten a nuestro alumnado la comunicación y reparto de las tareas cuando trabajan de forma colaborativa. 
+
+*Fases por las que suelen pasar los proyectos / actividades / situaciones de aprendizaje:*
+
+    - Fase 1: Presentación del enunciado y objetivos del proyecto / actividad. 
+    - Fase 2: Formación de grupos de trabajo.
+    - Fase 3: Desglose y reparto de tareas.
+    - Fase 4: Realización de las tareas.
+    - Fase 5: Documentación del trabajo realizado.
+    - Fase 6: Presentación y entrega del trabajo.
+    - Fase 7: Evaluación.
+   
+  Para cada una de estas fases, podremos utilizar diferentes herramientas que veremos a continuación.
 
 
 ** 2. Seguimiento de tareas de un proyecto con Teams y Planner. Trello.
