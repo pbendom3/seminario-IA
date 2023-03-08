@@ -7,7 +7,7 @@
     2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#2-seguimiento-de-tareas-creadas-con-teams-y-planner-trello][Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.]]
     3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#3-generaci%C3%B3n-de-contenido-compartido-con-aplicaciones-m365][Generación de contenido compartido con aplicaciones M365.]]
     4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#4-generaci%C3%B3n-de-contenido-compartido-con-google-drive][Generación de contenido compartido con Google Drive.]]
-    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#5-pizarras-colaborativas-padlet][Pizarras colaborativas: Padlet.]]
+    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#5--opciones-para-publicar-trabajos-pizarras-colaborativas-padlet][Pizarras colaborativas: Padlet.]]
    
 ** Referencias y links
 - [[https://support.microsoft.com/es-es/topic/tareas-y-calificaciones-en-el-equipo-de-clase-7cb294be-2c63-4f2d-acf2-299329bcd5bf][Teams: Tareas y calificaciones en el equipo de clase.]]
