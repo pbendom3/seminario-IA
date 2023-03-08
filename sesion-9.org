@@ -86,5 +86,6 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 *** Publicación del trabajo: Google Sites
 
 ** 5. + Opciones para publicar trabajos. Pizarras colaborativas: Padlet.
+[[./imagenes/padlet.png]]
 
-https://intef.es/observatorio_tecno/padlet/
++ info: https://intef.es/observatorio_tecno/padlet/
