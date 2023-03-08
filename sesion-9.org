@@ -63,7 +63,13 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 
 
 *** Otra opción: Trello.
+
+*Crear espacio de trabajo / proyecto:*
+
 [[./gif/trello.gif]]
+
+*Crear tareas:*
+
 [[./gif/tarea_trello.gif]]
 
 
