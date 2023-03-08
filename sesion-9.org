@@ -88,4 +88,6 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 ** 5. + Opciones para publicar trabajos. Pizarras colaborativas: Padlet.
 [[./imagenes/padlet.png]]
 
+*Padlet todavía no se integra con Teams*
+
 + info: https://intef.es/observatorio_tecno/padlet/
