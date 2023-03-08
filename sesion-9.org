@@ -69,12 +69,13 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 
 ** 3. Generación de contenido compartido con aplicaciones M365.
 
-Meter Sway
+
+*** Publicación del trabajo: Sway
 
 ** 4. Generación de contenido compartido con Google Drive.
 
-Meter Sites
+*** Publicación del trabajo: Google Sites
 
-** 5. Pizarras colaborativas: Padlet.
+** 5. + Opciones para publicar trabajos. Pizarras colaborativas: Padlet.
 
 https://intef.es/observatorio_tecno/padlet/
