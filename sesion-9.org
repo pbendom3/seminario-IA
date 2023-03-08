@@ -63,6 +63,9 @@ De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que c
 
 
 *** Otra opción: Trello.
+[[./gif/trello.gif]]
+[[./gif/tarea_trello.gif]]
+
 
 *** Integración de Trello con Microsoft Teams
 [[./gif/trello_teams.gif]]
