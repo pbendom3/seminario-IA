@@ -3,8 +3,8 @@
 [[./imagenes/plagio.jpeg]]
 
 ** Índice
-    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#1-metodolog%C3%ADa-general-en-las-fases-de-abp-y-trabajo-colaborativo-digitalizado][Dupli Checker.]]
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#2-creaci%C3%B3n-y-seguimiento-de-tareas-de-un-proyecto-con-teams-planner-y-trello][PLAGIARISM CHECKER BY EDUBIRDIE.]]
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-10.org#1][Dupli Checker.]]
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-10.org#2][PLAGIARISM CHECKER BY EDUBIRDIE.]]
    
 ** Referencias y links
 - [[https://www.duplichecker.com/][Acceso a Dupli Checker.]]
