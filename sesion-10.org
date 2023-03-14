@@ -1,0 +1,101 @@
+[[./imagenes/sesion9.png]]
+* Herramientas digitales en la web 2.0 para el trabajo colaborativo y aprendizaje basado en proyectos (ABP).
+[[./imagenes/colaborativo.jpeg]]
+
+** Índice
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#1-metodolog%C3%ADa-general-en-las-fases-de-abp-y-trabajo-colaborativo-digitalizado][Metodología general en las fases de ABP y trabajo colaborativo digitalizado.]]
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#2-creaci%C3%B3n-y-seguimiento-de-tareas-de-un-proyecto-con-teams-planner-y-trello][Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#3-generaci%C3%B3n-de-contenido-compartido-con-aplicaciones-m365][Generación de contenido compartido con aplicaciones M365.]]
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#4-generaci%C3%B3n-de-contenido-compartido-con-google-drive][Generación de contenido compartido con Google Drive.]]
+    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#5--opciones-para-publicar-trabajos-pizarras-colaborativas-padlet][Pizarras colaborativas: Padlet.]]
+   
+** Referencias y links
+- [[https://support.microsoft.com/es-es/topic/tareas-y-calificaciones-en-el-equipo-de-clase-7cb294be-2c63-4f2d-acf2-299329bcd5bf][Teams: Tareas y calificaciones en el equipo de clase.]]
+- [[https://support.microsoft.com/es-es/planner][Ayuda y aprendizaje de Planner.]]
+- [[https://support.office.com/es-es/f1/topic/usar-planner-en-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0?NS=MSPLANNER&Version=16&ThemeId=6&IsSasFeedbackEnabled=False][Usar Planner en Microsoft Teams.]]
+- [[https://trello.com/guide][Guías de Trello.]]
+- [[https://support.office.com/es-es/f1/topic/introducci%C3%B3n-a-sway-2076c468-63f4-4a89-ae5f-424796714a8a?NS=STORYIM&Version=16&ThemeId=6&IsSasFeedbackEnabled=False][Introducción a Sway.]] 
+- [[https://support.google.com/sites/answer/6372878?hl=es&ref_topic=7184580][Guía de uso de Google Sites.]] 
+- [[https://intef.es/observatorio_tecno/padlet/][Artículo INTEF sobre Padlet.]]
+
+
+** 1. Metodología general en las fases de ABP y trabajo colaborativo digitalizado.
+
+De cara a trabajar con aprendizaje basado en proyectos (ABP), es necesario que como docentes demos el paso de implementar herramientas en el aula que faciliten a nuestro alumnado la comunicación y reparto de las tareas cuando trabajan de forma colaborativa. 
+
+*Fases por las que suelen pasar los proyectos / actividades / situaciones de aprendizaje:*
+
+    - Fase 1: Presentación del enunciado y objetivos del proyecto / actividad. (Usar herramientas de generación de contenido digital vistas anteriormente).
+    - Fase 2: Formación de grupos de trabajo. 
+    - Fase 3: Desglose y reparto de tareas. (Teams, Planner, Trello).
+    - Fase 4: Realización de las tareas. 
+    - Fase 5: Documentación del trabajo realizado. (Herramientas de generación de contenido digital colaborativo, M365, Drive, y online vistas como Canva, Prezi, Genially,...).
+    - Fase 6: Presentación y entrega del trabajo. (Herramientas de generación de contenido digital colaborativo, M365, Drive, y online vistas como Canva, Prezi, Genially,...).
+    - Fase 7: Evaluación. 
+   
+  Para cada una de estas fases, podremos utilizar diferentes herramientas que veremos a continuación.
+
+
+** 2. Creación y seguimiento de tareas de un proyecto con Teams, Planner y Trello.
+
+*** Teams
+[[./gif/tarea_nueva.gif]]
+
+*** Evaluación de tareas de Teams.
+[[./gif/evaluar_tarea.gif]]
+
+¡OJO a ~Calificación individual~ y ~Calificación grupal~!
+
+*** Planner
+
+*Crear plan y tareas:*
+
+[[./gif/tarea_planner.gif]]
+
+*Configuración de la tarea:*
+
+[[./gif/tarea_planner2.gif]]
+
+
+*** Integrar Planner en un equipo de Microsoft Teams
+[[./imagenes/planner_teams.jpg]]
+[[./gif/planner_teams.gif]]
+
+
+*** Otra opción: Trello.
+
+*Crear espacio de trabajo / proyecto:*
+
+[[./gif/trello.gif]]
+
+*Crear tareas:*
+
+[[./gif/tarea_trello.gif]]
+
+
+*** Integración de Trello con Microsoft Teams
+[[./gif/trello_teams.gif]]
+
+** 3. Generación de contenido compartido con aplicaciones M365.
+
+
+*** Publicación del trabajo: Sway
+
+** 4. Generación de contenido compartido con Google Drive.
+
+*** Publicación del trabajo: Google Sites
+
+** 5. + Opciones para publicar trabajos. Pizarras colaborativas: Padlet.
+[[./imagenes/padlet.png]]
+
+*Crear tablero:*
+
+[[./gif/padlet.gif]]
+
+*Compartir y publicar:*
+
+[[./gif/publi_padlet.gif]]
+
+*Padlet todavía no se integra con Teams*
+
++ info: https://intef.es/observatorio_tecno/padlet/
