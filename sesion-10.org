@@ -1,6 +1,6 @@
-[[./imagenes/sesion9.png]]
-* Herramientas digitales en la web 2.0 para el trabajo colaborativo y aprendizaje basado en proyectos (ABP).
-[[./imagenes/colaborativo.jpeg]]
+[[./imagenes/sesion10.png]]
+* Métodos anticopia.
+[[./imagenes/plagio.jpeg]]
 
 ** Índice
     1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-9.org#1-metodolog%C3%ADa-general-en-las-fases-de-abp-y-trabajo-colaborativo-digitalizado][Metodología general en las fases de ABP y trabajo colaborativo digitalizado.]]
