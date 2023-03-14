@@ -13,6 +13,4 @@ Curso de formación sobre herramientas digitales para el profesorado del IES MUT
 7.  [[./sesion-4.org][Gestión de la información creada en AULES.]] (8-feb-2023)
 8.  [[./sesion-8.org][Generación de contenido digital. H5P. Herramientas digitales para metodología de clase invertida (Flipped Classroom).]] (15-feb-2023)
 9.  [[./sesion-9.org][Herramientas digitales en la web 2.0 para el trabajo colaborativo y ABP.]] (8-mar-2023)
-10. Métodos anticopia. Conclusiones y cierre de curso. (15-mar-2023)
-
-
+10. [[./sesion-10.org][Métodos anticopia. Conclusiones y cierre de curso.]] (15-mar-2023)
