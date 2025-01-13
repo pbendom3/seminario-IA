@@ -1,6 +1,6 @@
-[[./imagenes/seminario111.PNG]]
-* Configuración de correo electrónico y herramientas corporativas M365.
-[[./imagenes/id_digital.png]]
+[[./imagenes/seminario1.PNG]]
+* Introducción a la IA en la Educación.
+[[./imagenes/iaedu.jpg]]
 
 ** Índice
     1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Configuración del correo electrónico de Google (@iesmutxamel.com).]]  
