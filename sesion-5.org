@@ -1,4 +1,4 @@
-[[./imagenes/seminario5.PNG]]
+[[./imagenes/seminario51.PNG]]
 
 * Chatbots Educativos.
 [[./imagenes/chatbots_edu.png]]
