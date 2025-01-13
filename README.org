@@ -1,16 +1,16 @@
-* Seminario "herramientas TIC para la docencia" 22/23
+* Seminario "Introducción a la IA en el ámbito docente" 24/25
 [[./imagenes/logos.PNG]]
 
-Curso de formación sobre herramientas digitales para el profesorado del IES MUTXAMEL.
+Capacitar a los docentes en el uso de la IA para mejorar la enseñanza, crear contenidos personalizados y fomentar la reflexión ética sobre la aplicación de la IA en el aula para el profesorado del IES MUTXAMEL.
 
 ** Sesiones
-1.  [[./sesion-1.org][Configuración de correo electrónico y herramientas corporativas M365.]] (16-nov-2022)
-2.  [[./sesion-2.org][AULES básico.]] (7-dic-2022)
-3.  [[./sesion-2.org][AULES básico 2. Actividades de tipo Taller para la evaluación entre iguales.]] (11-ene-2023)
-4.  [[./sesion-5.org][Generando contenido con herramientas de Inteligencia Artificial. Análisis de las ventajas y posibles problemáticas con el alumnado dentro y fuera del aula.]] (18-ene-2023) 
-5.  [[./sesion-3.org][Evaluando con AULES.]] (25-ene-2023)
-6.  [[./sesion-6.org][Identidad Digital. Microsoft Outlook + Teams en el aula.]] (1-feb-2023)
-7.  [[./sesion-4.org][Gestión de la información creada en AULES.]] (8-feb-2023)
-8.  [[./sesion-8.org][Generación de contenido digital. H5P. Herramientas digitales para metodología de clase invertida (Flipped Classroom).]] (15-feb-2023)
-9.  [[./sesion-9.org][Herramientas digitales en la web 2.0 para el trabajo colaborativo y ABP.]] (8-mar-2023)
-10. [[./sesion-10.org][Métodos anticopia. Conclusiones y cierre de curso.]] (15-mar-2023)
+1.  [[./sesion-1.org][Introducción a la IA en la Educación.]] (15-ene-2025)
+2.  [[./sesion-2.org][Ética en el uso de la IA.]] (22-ene-2025)
+3.  [[./sesion-3.org][Personalización del Aprendizaje.]] (29-ene-2025)
+4.  [[./sesion-4.org][Creación de Contenidos Educativos.]] (5-feb-2025) 
+5.  [[./sesion-5.org][Chatbots Educativos.]] (12-feb-2025)
+6.  [[./sesion-6.org][Evaluación Automatizada.]] (19-feb-2025)
+7.  [[./sesion-7.org][Gestión Educativa con IA.]] (26-feb-2025)
+8.  [[./sesion-8.org][Proyectos de IA para el alumnado.]] (5-mar-2025)
+9.  [[./sesion-9.org][IA y Aprendizaje Inclusivo.]] (12-mar-2025)
+10. [[./sesion-10.org][Uso de IA en la tutorización del alumnado.]] (26-mar-2025)
