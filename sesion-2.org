@@ -1,21 +1,20 @@
-[[./imagenes/sesion2.PNG]]
+[[./imagenes/seminario2.PNG]]
 
-* AULES básico.
-[[./imagenes/aules.png]]
+* Ética en el uso de la IA.
+[[./imagenes/ia_etica.png]]
 
 ** Índice
-    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#1-sabores-aules][Sabores AULES.]]
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#2-acceso][Acceso.]]
-    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#3-creaci%C3%B3n-de-cursos][Creación de cursos.]]
-    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#4-gesti%C3%B3n-de-usuarios][Gestión de usuarios.]] 
-    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#5-configuraci%C3%B3n-del-aspecto-del-curso][Configuración del aspecto del curso.]] 
-    6. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#6-tipos-de-tareas][Tipos de tareas.]]
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#1-sabores-aules][Implicaciones éticas y sociales de los sistemas de IA.]]
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#2-acceso][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#3-creaci%C3%B3n-de-cursos][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#4-gesti%C3%B3n-de-usuarios][Introducción al sesgo con moralmachine.]] 
+    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#5-configuraci%C3%B3n-del-aspecto-del-curso][Documental: Sesgo Codificado (2020, NETFLIX).]] 
    
 ** Referencias
-- [[https://aules.edu.gva.es/][Link de acceso a AULES]]
-- [[https://moodle.org/?lang=es][Acceso a web oficial de Moodle]] 
-- [[https://docs.moodle.org/39/en/Activities][Documentación por tipo de actividades Moodle]]
-- [[https://h5p.org/][Acceso a web H5P]] 
+- [[https://formacion.intef.es/aulaenabierto/mod/book/view.php?id=5073][INTEF - Ética en la inteligencia artificial]]
+- [[https://www.youtube.com/watch?v=SPBn9gwgIsI&t=95s][Vídeo sobre Sora IA]] 
+- [[https://www.moralmachine.net/hl/es][Acceso a Moral Machine]]
+- [[https://www.netflix.com/es/title/81328723][Documental: Sesgo Codificado (2020, NETFLIX)]] 
 
 ** Contenidos
 Según la definición que encontramos por parte de la DGTIC, Aules es un lugar destinado al e-learning, con vocación de universalidad, sencillez y accesibilidad desde cualquier dispositivo. Está basado en la plataforma *Moodle*, y ¡seguramente si habéis realizado alguna formación o curso online, la web que habéis utilizado también lo estaba! 
