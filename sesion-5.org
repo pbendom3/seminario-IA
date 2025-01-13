@@ -7,7 +7,7 @@
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#1-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
     2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#2-experimentando-con-chatbots-de-ia][Experimentando con chatbots de IA.]]
     3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#3-uso-de-chatbots-en-el-aula][Uso de chatbots en el aula.]]
-    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#4-proyecto-dise%C3%B1o-de-un-chatbot-de-ia-al-servicio-de-la-sociedad][PROYECTO: diseño de un chatbot de IA al servicio de la sociedad.]] 
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#4-proyecto-dise%C3%B1o-de-un-chatbot-con-ia-al-servicio-de-la-sociedad][PROYECTO: diseño de un chatbot con IA al servicio de la sociedad.]] 
    
 ** Referencias
 - [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
@@ -40,7 +40,7 @@ Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado e
 
 [[./gif/crear_curso_eso.gif]]
 
-** 4. PROYECTO: diseño de un chatbot de IA al servicio de la sociedad
+** 4. PROYECTO: diseño de un chatbot con IA al servicio de la sociedad
 
 *** Restaurar contraseñas
 
