@@ -20,7 +20,7 @@
 - [[https://www.lavanguardia.com/tecnologia/20190518/462270404745/reconocimiento-facial-china-derechos-humanos.html][La inquietante apuesta china por el reconocimiento facial]]
 
 
-** 1. Configuración del correo electrónico de Google (@iesmutxamel.com)
+** 1. Introducción a la Inteligencia Artificial
 
 *** Creación de Etiquetas
 Dada la cantidad de información variada que recibimos todos los días en nuestro email, las [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][etiquetas]] son un recurso para ayudar a organizar nuestros correos electrónicos de forma que se puedan clasificar por temática, curso, nivel educativo, etc,...
@@ -101,10 +101,10 @@ Vamos a hacerlo:
 [[./imagenes/alumnado.PNG]]
 
 
-** 2. Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).
+** 2. Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML
 Si todavía no lo has hecho, configura tu cuenta de correo corporativo GVA replicando este [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][tutorial]].
 
-** 3. Cuenta y apps Office365
+** 3. ChatGPT... lo bueno y lo malo
 Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
 
 [[./imagenes/office365.PNG]]
@@ -121,7 +121,7 @@ Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
 *** [[https://to-do.office.com/tasks/today?][To Do]] 
 
 
-** 4. Conexión Office365 con AULES
+** 4. Otros modelos de aprendizaje
 Podemos conectar nuestras aplicaciones de Microsoft con AULES. De esta forma, podremos enlazar directamente archivos contenidos en nuestras carpetas de OneDrive, sincronizar el calendario, etc.
 
 [[./imagenes/officeAULES.PNG]]
