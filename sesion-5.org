@@ -5,7 +5,7 @@
 
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#1-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#2-experimentando-con-chatbots-de-ia][Experimentando con chatbots de IA.]]
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#2-experimentando-con-chatbots][Experimentando con chatbots.]]
     3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#3-uso-de-chatbots-en-el-aula][Uso de chatbots en el aula.]]
     4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#4-proyecto-dise%C3%B1o-de-un-chatbot-con-ia-al-servicio-de-la-sociedad][PROYECTO: diseño de un chatbot con IA al servicio de la sociedad.]] 
    
@@ -23,7 +23,7 @@ En AULES los cursos se clasifican en función de la enseñanza a la que van dest
 [[./imagenes/sabores1.png]]
 [[./imagenes/sabores2.png]]
 
-** 2. Experimentando con chatbots de IA
+** 2. Experimentando con chatbots
 Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña.
 
 Por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA. Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
