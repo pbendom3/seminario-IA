@@ -1,4 +1,4 @@
-[[./imagenes/seminario2.PNG]]
+[[./imagenes/seminario21.PNG]]
 
 * Ética en el uso de la IA.
 [[./imagenes/ia_etica.png]]
