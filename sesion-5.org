@@ -1,7 +1,7 @@
-[[./imagenes/seminario2.PNG]]
+[[./imagenes/seminario5.PNG]]
 
-* Ética en el uso de la IA.
-[[./imagenes/ia_etica.png]]
+* Chatbots Educativos.
+[[./imagenes/chatbots_edu.png]]
 
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
