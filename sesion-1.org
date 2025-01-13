@@ -3,10 +3,10 @@
 [[./imagenes/iaedu.jpg]]
 
 ** Índice
-    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Introducción a la Inteligencia Artificial.]]  
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML.]]
-    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#3-cuenta-y-apps-office365][ChatGPT... lo bueno y lo malo.]]
-    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#3-cuenta-y-apps-office365][Otros modelos de aprendizaje.]]
+    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#1-introducci%C3%B3n-a-la-inteligencia-artificial][Introducción a la Inteligencia Artificial.]]  
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#2-entendiendo-los-modelos-de-aprendizaje-de-textos-llm-apps-con-learningml][Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML.]]
+    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#3-chatgpt-lo-bueno-y-lo-malo][ChatGPT... lo bueno y lo malo.]]
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#4-otros-modelos-de-aprendizaje][Otros modelos de aprendizaje.]]
 
    
 ** Referencias y links
