@@ -1,4 +1,4 @@
-[[./imagenes/seminario1.PNG]]
+[[./imagenes/seminario11.PNG]]
 * Introducción a la IA en la Educación.
 [[./imagenes/iaedu.jpg]]
 
