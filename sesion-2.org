@@ -4,11 +4,11 @@
 [[./imagenes/ia_etica.png]]
 
 ** Índice
-    1. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#1-sabores-aules][Implicaciones éticas y sociales de los sistemas de IA.]]
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#2-acceso][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
-    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#3-creaci%C3%B3n-de-cursos][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
-    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#4-gesti%C3%B3n-de-usuarios][Introducción al sesgo con moralmachine.]] 
-    5. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-2.org#5-configuraci%C3%B3n-del-aspecto-del-curso][Documental: Sesgo Codificado (2020, NETFLIX).]] 
+    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
+    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
+    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#5-documental-sesgo-codificado-2020-netflix][Documental: Sesgo Codificado (2020, NETFLIX).]] 
    
 ** Referencias
 - [[https://formacion.intef.es/aulaenabierto/mod/book/view.php?id=5073][INTEF - Ética en la inteligencia artificial]]
