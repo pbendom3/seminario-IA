@@ -15,6 +15,7 @@
 - [[https://www.youtube.com/watch?v=SPBn9gwgIsI&t=95s][Vídeo sobre Sora IA]] 
 - [[https://www.moralmachine.net/hl/es][Acceso a Moral Machine]]
 - [[https://www.netflix.com/es/title/81328723][Documental: Sesgo Codificado (2020, NETFLIX)]] 
+- [[https://maldita.es/malditatecnologia/20241230/uso-2024-inteligencia-artificial-bulos-desinformar/][Cómo se ha usado en 2024 la inteligencia artificial para difundir bulos y desinformar]]
 
 ** 1. Implicaciones éticas y sociales de los sistemas de IA
 En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
