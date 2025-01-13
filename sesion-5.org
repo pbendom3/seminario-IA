@@ -4,24 +4,27 @@
 [[./imagenes/chatbots_edu.png]]
 
 ** Índice
-    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
-    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
-    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
-    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#5-documental-sesgo-codificado-2020-netflix][Documental: Sesgo Codificado (2020, NETFLIX).]] 
+    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Experimentando con chatbots de IA.]]
+    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Uso de chatbots en el aula.]]
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][PROYECTO: diseño de un chatbot de IA al servicio de la sociedad.]] 
    
 ** Referencias
-- [[https://formacion.intef.es/aulaenabierto/mod/book/view.php?id=5073][INTEF - Ética en la inteligencia artificial]]
-- [[https://www.youtube.com/watch?v=SPBn9gwgIsI&t=95s][Vídeo sobre Sora IA]] 
-- [[https://www.moralmachine.net/hl/es][Acceso a Moral Machine]]
-- [[https://www.netflix.com/es/title/81328723][Documental: Sesgo Codificado (2020, NETFLIX)]] 
+- [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
+- [[https://chat.openai.com/][Acceso a ChatGPT]] 
+- [[https://botframe.com/editor/new][Acceso a Botframe]]
+- [[https://openaccess.uoc.edu/bitstream/10609/85786/6/BRIEFING-PAPER-ES.pdf][Briefing paper: los chatbots en educación]]
+- [[https://www.adslzone.net/como-se-hace/telegram/crear-bot/][Tutorial: creación de bots para el aula con ayuda de Telegram]] 
+- [[https://cloud.google.com/products/conversational-agents][Acceso a DialogFlow]] 
+- [[https://es.snatchbot.me/botstore/template][Acceso a SnatchBot]] 
+- 
 
-** 1. Implicaciones éticas y sociales de los sistemas de IA
+** 1. Chatbots: Asistentes virtuales vs Agentes conversacionales
 En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
 [[./imagenes/sabores1.png]]
 [[./imagenes/sabores2.png]]
 
-** 2. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
+** 2. Experimentando con chatbots de IA
 Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña.
 
 Por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA. Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
@@ -33,12 +36,12 @@ Nada más entrar, veremos nuestra Página principal y si tenemos algún curso cr
 
 [[./imagenes/acceso2.png]]
 
-** 3. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
+** 3. Uso de chatbots en el aula
 Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado en ITACA. 
 
 [[./gif/crear_curso_eso.gif]]
 
-** 4. Introducción al sesgo con moralmachine
+** 4. PROYECTO: diseño de un chatbot de IA al servicio de la sociedad
 
 *** Restaurar contraseñas
 
@@ -63,46 +66,5 @@ Vámonos al sabor Aules Docente y así no molestamos a nadie.
 *Actividad*. Crea un curso nuevo en el sabor Aules Docente. Este es el curso base con el que trabajaremos a partir de ahora. 
 
 [[./imagenes/curso_docent.png]]
-
-** 5. Documental: Sesgo Codificado (2020, NETFLIX)
-Toda la configuración del curso la tenemos disponible a través de la rueda dentada que encontramos en el menú superior
-
-[[./imagenes/edicion.PNG]]
-[[./imagenes/editar_curso.PNG]]
-
-*** Establecer imagen del curso
-
-[[./gif/imagen_curso.gif]]
-
-*** Formato y apariencia 
-También podremos elegir la forma en que el contenido de nuestro curso se visualiza. Por ejemplo, podemos hacer que los temas se desplieguen, temas semanales, formato de actividad única (sin temas), etc. 
-
-Vamos a establecer una *configuración para que los temas tengan un desplegable*, de forma que podamos ocultar el contenido cuando no nos interese.
-
-[[./gif/desplegable.gif]]
-[[./gif/desplegable2.gif]]
-
-*¡IMPORTANTE! Deberemos tener mucho cuidado al elegir el tipo de formato, ya que podemos perder información de nuestro curso.*
-
-Por ejemplo, si elegimos el formato de actividad única y ya tenemos temas creados, *ESTOS DESAPARECERÁN*.
-
-*** Modo edición
-El modo edición [[./imagenes/modo_edicion.PNG]] es el que nos permite ir dando forma a nuestro curso:
-
-[[./imagenes/editar_actividades.PNG]]
-
-- Podemos introducir contenido nuevo para nuestro alumnado.
-- Ocultar actividades que no nos interese mostrar.
-- Modificar textos literales que pudiéramos tener (por ejemplo, el nombre de los temas).
-- Resaltar temas.
-- Etc...
-
-[[./imagenes/editar2.PNG]]
-
-Además, también podemos añadir bloques al curso como un Calendario de eventos cercanos que puede servir para reflejar las fechas de examen o de entrega de actividades.
-
-[[./imagenes/bloques.PNG]] [[./imagenes/calendario.PNG]]
-
-
 
 
