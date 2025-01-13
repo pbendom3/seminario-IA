@@ -3,20 +3,21 @@
 [[./imagenes/iaedu.jpg]]
 
 ** Índice
-    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Configuración del correo electrónico de Google (@iesmutxamel.com).]]  
-    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][ Identidad Digital GVA: Conexión y configuración del correo corporativo (@edu.gva.es).]]
-    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#3-cuenta-y-apps-office365][Cuenta y apps Office365.]] 
-    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#4-conexi%C3%B3n-office365-con-aules][Conexión Office365 con AULES.]] 
+    1. [[https://github.com/pbendom/curso-TIC/blob/main/1-sesion-1.org#configuraci%C3%B3n-del-correo-electr%C3%B3nico-de-google-iesmutxamelcom][Introducción a la Inteligencia Artificial.]]  
+    2. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#2-identidad-digital-gva-conexi%C3%B3n-y-configuraci%C3%B3n-del-correo-corporativo-edugvaes][Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML.]]
+    3. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#3-cuenta-y-apps-office365][ChatGPT... lo bueno y lo malo.]]
+    4. [[https://github.com/pbendom/curso-TIC/blob/main/sesion-1.org#3-cuenta-y-apps-office365][Otros modelos de aprendizaje.]]
+
    
 ** Referencias y links
-- [[https://mail.google.com/mail][Acceso a GMAIL]]
-- [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre etiquetas de Gmail]]
-- [[https://support.google.com/mail/answer/6579?hl=es][Documentación sobre filtros de Gmail]]
-- [[https://support.google.com/mail/answer/8395?hl=es&co=GENIE.Platform%3DDesktop][Documentación sobre firmas de Gmail]]
-- [[https://support.google.com/a/users/answer/9308853?hl=es][Documentación sobre grupos de contactos de Gmail]]
-- [[https://contacts.google.com/u/1/?hl=es&tab=mC][Acceso a Contactos de Google]] 
-- [[https://portal.edu.gva.es/cdc/wp-content/uploads/sites/1065/2021/10/INSTRUCCIONES-CORREO-DOCENTES_CAST_-edugvaes_oct-21.pdf][Tutorial - Acceso a cuenta de correo para docentes de la Comunitat Valenciana]] 
-- [[https://aules.edu.gva.es/][Link de acceso a AULES]]
+- [[https://web.learningml.org/][Acceso a LearningML]]
+- [[https://teachablemachine.withgoogle.com/train][Acceso a Teachable Machine]]
+- [[https://genai.owasp.org/llm-top-10/][OWASP Top 10 risks for LLM Applications and Generative AI Project (2025)]]
+- [[https://www.tesla.com/es_es/AI][Cómo lee la información el coche Tesla]]
+- [[https://es.akinator.com/][Acceso a Akinator]]
+- [[https://quickdraw.withgoogle.com/][Acceso a QuickDraw de Google]] 
+- [[https://www.youtube.com/watch?v=dcG9bLhLYhU&feature=youtu.be][Vídeo - Siri reserva hora en la peluquería]] 
+- [[https://www.lavanguardia.com/tecnologia/20190518/462270404745/reconocimiento-facial-china-derechos-humanos.html][La inquietante apuesta china por el reconocimiento facial]]
 
 
 ** 1. Configuración del correo electrónico de Google (@iesmutxamel.com)
