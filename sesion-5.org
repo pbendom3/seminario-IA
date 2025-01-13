@@ -4,10 +4,10 @@
 [[./imagenes/chatbots_edu.png]]
 
 ** Índice
-    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Experimentando con chatbots de IA.]]
-    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Uso de chatbots en el aula.]]
-    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][PROYECTO: diseño de un chatbot de IA al servicio de la sociedad.]] 
+    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#1-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#2-experimentando-con-chatbots-de-ia][Experimentando con chatbots de IA.]]
+    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#3-uso-de-chatbots-en-el-aula][Uso de chatbots en el aula.]]
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#4-proyecto-dise%C3%B1o-de-un-chatbot-de-ia-al-servicio-de-la-sociedad][PROYECTO: diseño de un chatbot de IA al servicio de la sociedad.]] 
    
 ** Referencias
 - [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
@@ -17,7 +17,6 @@
 - [[https://www.adslzone.net/como-se-hace/telegram/crear-bot/][Tutorial: creación de bots para el aula con ayuda de Telegram]] 
 - [[https://cloud.google.com/products/conversational-agents][Acceso a DialogFlow]] 
 - [[https://es.snatchbot.me/botstore/template][Acceso a SnatchBot]] 
-- 
 
 ** 1. Chatbots: Asistentes virtuales vs Agentes conversacionales
 En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
