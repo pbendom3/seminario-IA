@@ -87,11 +87,11 @@ Se trata de una interfaz web que recopila textos o imágenes sobre algo que quer
 
 *Paso 5.* En cuanto aparezca el mensaje de aviso porque ya "ha aprendido", probaremos el reconocimiento de textos escribiendo frases o palabras parecidas para comprobar que se reconocen los sentimientos positivos o negativos correctamente.
 
-[[./imagenes/6.PNG]]
+[[./imagenes/6.png]]
 
 La aplicación nos devolverá el porcentaje de aspectos positivos y negativos que tiene la frase, y en función del valor, decidirá si se trata de una frase que se encuentra dentro de la clase de aspectos positivos o dentro de la clase de aspectos negativos. En el caso de la frase que hemos escrito, la clasifica como negativa.
 
-*Actividad. Prueba a introducir más frases e intenta forzar el error de la máquina. ¿Qué solución piensas que hay que implementar para evitar esos errores?*
+~ACTIVIDAD. Prueba a introducir más frases e intenta forzar el error de la máquina. ¿Qué solución piensas que hay que implementar para evitar esos errores?~
 
 
 ** 3. ChatGPT... lo bueno y lo malo
