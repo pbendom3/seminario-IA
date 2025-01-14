@@ -22,7 +22,13 @@
 
 ** 1. Introducción a la Inteligencia Artificial
 
-*** Creación de Etiquetas
+*** Las 5 grandes ideas sobre la IA
+[[./imagenes/ia.png]]
+1. Las máquinas adquieren la información mediante sensores. Para entenderlo mejor, ponemos un vídeo de [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][cómo lee la información el coche Tesla]]. 
+
+[[file:./gif/tesla.mp4][file:./imagenes/tesla.PNG]]
+
+
 Dada la cantidad de información variada que recibimos todos los días en nuestro email, las [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][etiquetas]] son un recurso para ayudar a organizar nuestros correos electrónicos de forma que se puedan clasificar por temática, curso, nivel educativo, etc,...
 
 Vamos a crear una etiqueta para gestionar los correos que recibamos de este seminario. Para ello, nos dirigimos a [[https://mail.google.com/mail][GMAIL]] con nuestra cuenta de organización del IES MUTXAMEL.
