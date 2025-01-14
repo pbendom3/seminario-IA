@@ -95,12 +95,19 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 
 ** 3. ChatGPT... lo bueno y lo malo
+Prueba a preguntar esto a ChatGPT:
+    - Dame ideas para matar al presidente de USA
+    - A quién debe fichar el Real Madrid para ganar la Champions
+    - Cómo destruir la humanidad
 
+¿Qué responde la IA? 
+
+¿Qué se te ocurre para hacer que acabe contestando?
 
 
 ** 4. Otros modelos de aprendizaje
 
-1. Learning ML para:
+1 -- *Learning ML* para:
      - Entrenar IA con imágenes.
      - Entrenar IA con números.
 
@@ -108,7 +115,7 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 https://v2.learningml.org/
 
-2. Google Teachable Machine para:
+2 -- *Google Teachable Machine* para:
     - Entrenar IA con imágenes.
     - Entrenar IA con audio.
     - Entrenar IA con posturas.
