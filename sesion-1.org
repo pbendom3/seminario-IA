@@ -107,20 +107,18 @@ Prueba a preguntar esto a ChatGPT:
 
 ** 4. Otros modelos de aprendizaje
 
-1 -- *Learning ML* para:
+1 -- *Learning ML* (https://v2.learningml.org/) para:
      - Entrenar IA con imágenes.
      - Entrenar IA con números.
 
 [[./imagenes/lml.PNG]]
 
-https://v2.learningml.org/
 
-2 -- *Google Teachable Machine* para:
+
+2 -- *Google Teachable Machine* (https://teachablemachine.withgoogle.com/train) para:
     - Entrenar IA con imágenes.
     - Entrenar IA con audio.
     - Entrenar IA con posturas.
 
 [[./imagenes/tm.PNG]]
-
-https://teachablemachine.withgoogle.com/train
 
