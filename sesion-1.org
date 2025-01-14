@@ -16,7 +16,7 @@
 - [[https://www.tesla.com/es_es/AI][Cómo lee la información el coche Tesla]]
 - [[https://es.akinator.com/][Acceso a Akinator]]
 - [[https://quickdraw.withgoogle.com/][Acceso a QuickDraw de Google]] 
-- [[https://www.youtube.com/watch?v=dcG9bLhLYhU&feature=youtu.be][Vídeo - Siri reserva hora en la peluquería]] 
+- [[https://www.youtube.com/watch?v=dcG9bLhLYhU&feature=youtu.be][Vídeo - Google Assistant reserva hora en la peluquería]] 
 - [[https://www.lavanguardia.com/tecnologia/20190518/462270404745/reconocimiento-facial-china-derechos-humanos.html][La inquietante apuesta china por el reconocimiento facial]]
 
 
@@ -95,47 +95,25 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 
 ** 3. ChatGPT... lo bueno y lo malo
-Acceso a apps: [[https://www.office.com/apps?auth=2&home=1][M365]].
 
-[[./imagenes/office365.PNG]]
-[[./imagenes/office365_2.PNG]]
-
-*** [[https://outlook.office365.com/mail/][OUTLOOK]]
-
-*** [[https://gvaedu-my.sharepoint.com/personal][OneDrive]] 
-
-*** [[https://teams.microsoft.com/_#/discover][Teams]]  
-
-*** [[https://outlook.office.com/calendar/view/month][Calendario]]
-
-*** [[https://to-do.office.com/tasks/today?][To Do]] 
 
 
 ** 4. Otros modelos de aprendizaje
-Podemos conectar nuestras aplicaciones de Microsoft con AULES. De esta forma, podremos enlazar directamente archivos contenidos en nuestras carpetas de OneDrive, sincronizar el calendario, etc.
 
-[[./imagenes/officeAULES.PNG]]
+1. Learning ML para:
+     - Entrenar IA con imágenes.
+     - Entrenar IA con números.
 
-[[./imagenes/ficheros_office.PNG]]
+[[./imagenes/lml.PNG]]
 
+https://v2.learningml.org/
 
-** Tareas
-   Realiza las tareas que se indican a continuación. Incluye las *capturas de pantalla* que se pidan en un documento tipo *LibreOffice* o *Word*.
+2. Google Teachable Machine para:
+    - Entrenar IA con imágenes.
+    - Entrenar IA con audio.
+    - Entrenar IA con posturas.
 
-   Las tareas a realizar son:
+[[./imagenes/tm.PNG]]
 
-*** GMAIL
-   1. Crea una etiqueta nueva llamada "Seminario TIC".
-   2. Filtra los correos que contengan el texto "seminario TIC" en el asunto para que se clasifiquen automáticamente dentro de la etiqueta creada en el punto 1.
-   3. Crear una firma personal que contenga los siguientes elementos:
-      1) Nombre y Apellidos.
-      2) Departamento al que pertenecéis.
-      3) Logos corporativos. Descárgalos [[./imagenes/logos_tarea.PNG][aquí]].
-   4. Crea un grupo de contactos con el profesorado asistente a este seminario.  
-   5. Crea un grupo de contactos con alumnado exportando los datos desde algún curso de AULES que hayas creado con anterioridad.
-   
-*** OUTLOOK
-   Repite los puntos 1, 2 y 3 con tu cuenta de correo corporativo ~@edu.gva.es~.
+https://teachablemachine.withgoogle.com/train
 
-*** Entrega de la tarea
-    Guarda el fichero con las capturas en formato *PDF* y nómbralo según el patrón ~APELLIDOS_NOMBRE_sesion1.pdf~. Súbelo a la nube de tu cuenta de OneDrive y comparte el enlace al archivo conmigo ~p.benaventedomenec@edu.gva.es~.
