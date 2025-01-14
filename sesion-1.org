@@ -26,11 +26,28 @@
 
 [[./imagenes/ia.png]]
 
-    1. Las máquinas adquieren la información mediante sensores. Para entenderlo mejor, ponemos un vídeo de [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][cómo lee la información el coche Tesla]].
+    1 -- Las máquinas adquieren la información mediante sensores. Para entenderlo mejor, ponemos un vídeo de [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][cómo lee la información el coche Tesla]].
 [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][file:./imagenes/tesla.PNG]]
 
-    2. La máquina utiliza modelos preestablecidos que utiliza “para razonar”. En este caso, usaremos la plataforma [[https://es.akinator.com/][akinator]] para entender el concepto. 
+    2 -- La máquina utiliza modelos preestablecidos que utiliza “para razonar”. En este caso, usaremos la plataforma [[https://es.akinator.com/][akinator]] para entender el concepto. 
 [[https://es.akinator.com/][file:./imagenes/akinator.PNG]]
+
+    3 -- La máquina aprende a partir de datos: vamos a trastear con la aplicación [[https://quickdraw.withgoogle.com/][Quick Draw]] de Google, la cual nos permite entender los motivos por los que la máquina sabe lo que dibujamos. 
+
+    4 -- La máquina tiene que interaccionar con naturalidad con el humano: vemos un [[https://www.youtube.com/watch?v=dcG9bLhLYhU][vídeo en que el asistente de Google reserva hora en la peluquería]]. 
+
+    5 -- La inteligencia artificial tiene impacto en la sociedad. Presentamos una doble información: impacto positivo de la IA, como lo es la [[https://www.rtve.es/noticias/20240924/maria-blasco-directora-del-cnio-ia-herramienta-potentisima-va-a-acelerar-investigacion-cancer/16260264.shtml][lucha contra el cáncer]], e impacto negativo de la IA, como la pérdida de privacidad debido al reconocimiento facial o la contaminación que provoca en el medio ambiente. 
+
+    Algunos titulares que llaman la atención:
+
+    - [[https://www.xataka.com/legislacion-y-derechos/no-necesitamos-pruebas-tenemos-reconocimiento-facial-asi-como-ciudadanos-eeuu-fueron-arrestados-erroneamente][Estados Unidos ya está arrestando a sospechosos gracias al reconocimiento facial. Y ya se está equivocando]]
+    - [[https://www.seguritecnia.es/actualidad/reconocimiento-facial-inteligencia-artificial-ia_20240314.html][Cómo funciona el reconocimiento facial IA que distingue a los soldados enemigos]]
+    - [[https://maldita.es/malditatecnologia/20240913/proctoring-ia-reconocimiento-facial-examenes-online/][Proctoring con inteligencia artificial: ¿qué dice la ley sobre los sistemas que utilizan reconocimiento facial para supervisar exámenes online?]]
+    - [[https://www.telecinco.es/noticias/ciencia-y-tecnologia/ia/20240927/camaras-calles-reconocimiento-facial-identificacion-ia-derechos-europa-reino-unido_18_013571957.html][Las cámaras y los sistemas CCTV que nos graban en las calles e incluso nos identifican con IA: ¿se respetan todos nuestros derechos?]]
+
+
+
+
 
 Dada la cantidad de información variada que recibimos todos los días en nuestro email, las [[https://support.google.com/mail/answer/118708?hl=es&co=GENIE.Platform%3DDesktop][etiquetas]] son un recurso para ayudar a organizar nuestros correos electrónicos de forma que se puedan clasificar por temática, curso, nivel educativo, etc,...
 
