@@ -69,21 +69,21 @@ Se trata de una interfaz web que recopila textos o imágenes sobre algo que quer
 
 *Paso 1.* Para empezar el entrenamiento, crearemos un modelo para reconocer textos.
 
-[[./imagenes/1.PNG]]
+[[./imagenes/1.png]]
 
 *Paso 2.* Crearemos tantas clases como tipos de elementos, objetos o cosas sean características para un tema. Por ejemplo, si pienso en sentimientos, pueden ser *POSITIVOS* o *NEGATIVOS*. 
 
-[[./imagenes/llm2.PNG]]
+[[./imagenes/llm2.png]]
 
-[[./imagenes/3.PNG]]
+[[./imagenes/3.png]]
 
 *Paso 3.* Ahora, debemos crear una lista de aspectos positivos y negativos dentro de cada clase. Por ejemplo,
 
-[[./imagenes/4.PNG]]
+[[./imagenes/4.png]]
 
 *Paso 4.* A continuación, vamos a hacer click en el botón *Aprender a reconocer textos*,
 
-[[./imagenes/5.PNG]]
+[[./imagenes/5.png]]
 
 *Paso 5.* En cuanto aparezca el mensaje de aviso porque ya "ha aprendido", probaremos el reconocimiento de textos escribiendo frases o palabras parecidas para comprobar que se reconocen los sentimientos positivos o negativos correctamente.
 
