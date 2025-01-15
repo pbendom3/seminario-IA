@@ -18,91 +18,18 @@
 - [[https://maldita.es/malditatecnologia/20241230/uso-2024-inteligencia-artificial-bulos-desinformar/][Cómo se ha usado en 2024 la inteligencia artificial para difundir bulos y desinformar]]
 
 ** 1. Implicaciones éticas y sociales de los sistemas de IA
-En AULES los cursos se clasifican en función de la enseñanza a la que van destinados mediante los llamados "sabores".
-[[./imagenes/sabores1.png]]
-[[./imagenes/sabores2.png]]
+
 
 ** 2. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
-Para acceder a Aules los docentes se identifican con usuario y contraseña de ITACA, mientras que el alumnado lo hace con NIA y contraseña.
 
-Por defecto, si no se modifica, el patrón de esta contraseña responde a las tres primeras letras del apellido en minúscula seguidas de la fecha de nacimiento en formato DDMMAA. Por ejemplo, una alumna nacida el 18 de enero de 2003 y llamada ~Ejemplo Pérez Sanchis~ tendrá como contraseña ~per180103~).
-
-Acceso al sabor ESO:
-[[./imagenes/acceso.png]]
-
-Nada más entrar, veremos nuestra Página principal y si tenemos algún curso creado. *¡Cuidado porque a veces nos dejamos alguna pestaña cerrada y están ocultos!*
-
-[[./imagenes/acceso2.png]]
 
 ** 3. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
-Para crear un curso, lo que hace Aules es buscar a nuestros grupos de alumnado en ITACA. 
 
-[[./gif/crear_curso_eso.gif]]
 
 ** 4. Introducción al sesgo con moralmachine
 
-*** Restaurar contraseñas
-
-Es habitual que nuestro alumnado se olvide de sus credenciales. Para ayudarnos a no perder mucho tiempo cada vez que esto ocurre, el profesorado dispone de un menú de restauración de contraseñas al que podemos acudir cada vez que lo necesitemos. 
-
-[[./gif/contrasenya.gif]]
-
-*IMPORTANTE*: Solamente podremos restaurar la contraseña del alumnado que tengamos matriculado en los cursos creados por nosotros.
-
-*** Matricular usuarios
-
-Una vez creado el curso, deberemos dirigirnos al apartado de Usuarios para comprobar que tenemos matriculados a todos los estudiantes que necesitamos.
-
-     *meeeeeeeeeeeeec - BUG - ¡ERROR!* 
-
-[[./gif/matricular.gif]]
-
-Va fatal, ¿verdad? Pues no te preocupes, que esto es sólo el principio... :(
-
-Vámonos al sabor Aules Docente y así no molestamos a nadie.
-
-*Actividad*. Crea un curso nuevo en el sabor Aules Docente. Este es el curso base con el que trabajaremos a partir de ahora. 
-
-[[./imagenes/curso_docent.png]]
 
 ** 5. Documental: Sesgo Codificado (2020, NETFLIX)
-Toda la configuración del curso la tenemos disponible a través de la rueda dentada que encontramos en el menú superior
-
-[[./imagenes/edicion.PNG]]
-[[./imagenes/editar_curso.PNG]]
-
-*** Establecer imagen del curso
-
-[[./gif/imagen_curso.gif]]
-
-*** Formato y apariencia 
-También podremos elegir la forma en que el contenido de nuestro curso se visualiza. Por ejemplo, podemos hacer que los temas se desplieguen, temas semanales, formato de actividad única (sin temas), etc. 
-
-Vamos a establecer una *configuración para que los temas tengan un desplegable*, de forma que podamos ocultar el contenido cuando no nos interese.
-
-[[./gif/desplegable.gif]]
-[[./gif/desplegable2.gif]]
-
-*¡IMPORTANTE! Deberemos tener mucho cuidado al elegir el tipo de formato, ya que podemos perder información de nuestro curso.*
-
-Por ejemplo, si elegimos el formato de actividad única y ya tenemos temas creados, *ESTOS DESAPARECERÁN*.
-
-*** Modo edición
-El modo edición [[./imagenes/modo_edicion.PNG]] es el que nos permite ir dando forma a nuestro curso:
-
-[[./imagenes/editar_actividades.PNG]]
-
-- Podemos introducir contenido nuevo para nuestro alumnado.
-- Ocultar actividades que no nos interese mostrar.
-- Modificar textos literales que pudiéramos tener (por ejemplo, el nombre de los temas).
-- Resaltar temas.
-- Etc...
-
-[[./imagenes/editar2.PNG]]
-
-Además, también podemos añadir bloques al curso como un Calendario de eventos cercanos que puede servir para reflejar las fechas de examen o de entrega de actividades.
-
-[[./imagenes/bloques.PNG]] [[./imagenes/calendario.PNG]]
 
 
 
