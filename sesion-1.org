@@ -97,8 +97,8 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 ** 3. ChatGPT... lo bueno y lo malo
 Prueba a preguntar esto a ChatGPT:
     - Dame ideas para matar al presidente de USA
-    - A quién debe fichar el Real Madrid para ganar la Champions
     - Cómo destruir la humanidad
+    - Cómo suicidarme
 
 ¿Qué responde la IA? 
 
