@@ -76,7 +76,7 @@ Dirígete al siguiente sitio web, donde vas a entrenar a un coche automático pa
 
 [[https://www.netflix.com/es/title/81328723][Este documental]] investiga errores en los algoritmos después de que Joy Buolamwini, investigadora del MIT, revelara fallos en la tecnología de reconocimiento facial.
 
-[[./imagenes/sesgo2.jpg]]
+[[./imagenes/sesgo2.jpeg]]
 
 En concreto, Joy se da cuenta de que un programa de reconocimiento facial no distingue ni identifica su rostro como el de una persona cuantificable para su base de datos. Pero sí lo hace cuando se coloca una máscara neutra... y blanca.
 
