@@ -38,13 +38,13 @@ Sora está disponible en la mayor parte del mundo, excepto en la mayoría de pa�
 
 *** Los riesgos de Sora
 
-- Generación de contenidos nocivos
+- *Generación de contenidos nocivos*
 
 Sin barreras de protección, Sora puede generar contenidos desagradables o inapropiados, como vídeos con violencia, gore, material sexual explícito, representaciones despectivas de grupos de personas y otras imágenes de odio, así como la promoción o glorificación de actividades ilegales.
 
 Lo que constituye contenido inapropiado varía mucho en función del usuario (piensa en un niño que utiliza Sora frente a un adulto) y del contexto de la generación del vídeo (un vídeo que advierte sobre los peligros de los fuegos artificiales podría convertirse fácilmente en sangriento de forma educativa).
 
-- Desinformación
+- *Desinformación*
 
 Según los vídeos de ejemplo compartidos por OpenAI, uno de los puntos fuertes de Sora es su capacidad para crear escenas fantásticas que no podrían existir en la vida real. Esta fuerza también hace posible crear vídeos "deepfake" en los que personas o situaciones reales se transforman en algo que no es verdad.
 
@@ -56,7 +56,7 @@ Los vídeos de IA convincentes pero falsos de políticos o adversarios de polít
 
 En un año con muchas elecciones importantes, desde Taiwán hasta la India y Estados Unidos, esto tiene amplias consecuencias.
 
-- Prejuicios y estereotipos
+- *Prejuicios y estereotipos*
 
 Como ya hemos venido comentando durante las sesiones, el resultado de los modelos generativos de IA depende en gran medida de los datos con los que se han entrenado. Eso significa que los sesgos o estereotipos culturales en los datos de entrenamiento pueden provocar los mismos problemas en los vídeos resultantes. Como [[https://www.datacamp.com/es/podcast/fighting-for-algorithmic-justice-with-dr-joy-buolamwini-artist-in-chief-and-president-of-the-algorithmic-justice-league][Joy Buolamwini expuso en el episodio Luchando por la Justicia Algorítmica de DataFramed]], los sesgos en las imágenes pueden tener graves consecuencias en la actuación policial.
 
