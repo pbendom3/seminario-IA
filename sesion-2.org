@@ -26,7 +26,15 @@
 
 [[https://www.youtube.com/watch?v=SPBn9gwgIsI&t=95s][./imagenes/sora.PNG]] 
 
-Sora está disponible en la mayor parte del mundo, excepto en la mayoría de países de Europa y el Reino Unido. En España todavía no tenemos acceso.
+Sora está disponible en la mayor parte del mundo, excepto en la mayoría de países de Europa y el Reino Unido. En España todavía no tenemos acceso, pero como alternativa podemos probar:
+
+- Pika
+- Runway -- https://runwayml.com/ 
+
+[[./gif/erasmus.jpeg]]
+
+[[./gif/erasmus.mp4]]
+
 
 *** Los riesgos de Sora
 
