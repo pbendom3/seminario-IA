@@ -22,6 +22,36 @@
 
 ** 2. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
 
+[[https://sora.com/][Sora]] es el modelo de IA generativa de texto a vídeo de OpenAI. Esto significa que tú escribes un texto y él crea un vídeo que coincide con la descripción del texto. Aquí tienes unos ejemplos:
+
+[[https://www.youtube.com/watch?v=SPBn9gwgIsI&t=95s][./imagenes/sora.PNG]] 
+
+Sora está disponible en la mayor parte del mundo, excepto en la mayor parte de Europa y el Reino Unido. En España todavía no tenemos acceso.
+
+*** Los riesgos de Sora
+
+- Generación de contenidos nocivos
+
+Sin barreras de protección, Sora puede generar contenidos desagradables o inapropiados, como vídeos con violencia, gore, material sexual explícito, representaciones despectivas de grupos de personas y otras imágenes de odio, así como la promoción o glorificación de actividades ilegales.
+
+Lo que constituye contenido inapropiado varía mucho en función del usuario (piensa en un niño que utiliza Sora frente a un adulto) y del contexto de la generación del vídeo (un vídeo que advierte sobre los peligros de los fuegos artificiales podría convertirse fácilmente en sangriento de forma educativa).
+
+- Desinformación
+
+Según los vídeos de ejemplo compartidos por OpenAI, uno de los puntos fuertes de Sora es su capacidad para crear escenas fantásticas que no podrían existir en la vida real. Esta fuerza también hace posible crear vídeos "deepfake" en los que personas o situaciones reales se transforman en algo que no es verdad.
+
+Cuando este contenido se presenta como verdad, ya sea accidentalmente (desinformación) o deliberadamente (desinformación), puede causar problemas.
+
+Como escribió [[https://www.linkedin.com/pulse/navigating-ai-impact-elections-2024-digidiplomacy-icdhe/][Eske Montoya Martínez van Egerschot, Jefa de Gobernanza y Ética de la IA en DigiDiplomacy]], "la IA está remodelando las estrategias de campaña, la participación de los votantes y el propio tejido de la integridad electoral".
+
+Los vídeos de IA convincentes pero falsos de políticos o adversarios de políticos tienen el poder de "difundir estratégicamente narrativas falsas y acosar a fuentes legítimas, con el objetivo de socavar la confianza en las instituciones públicas y fomentar la animadversión hacia diversas naciones y grupos de personas".
+
+En un año con muchas elecciones importantes, desde Taiwán hasta la India y Estados Unidos, esto tiene amplias consecuencias.
+
+- Prejuicios y estereotipos
+
+Como ya hemos venido comentando durante las sesiones, el resultado de los modelos generativos de IA depende en gran medida de los datos con los que se han entrenado. Eso significa que los sesgos o estereotipos culturales en los datos de entrenamiento pueden provocar los mismos problemas en los vídeos resultantes. Como [[https://www.datacamp.com/es/podcast/fighting-for-algorithmic-justice-with-dr-joy-buolamwini-artist-in-chief-and-president-of-the-algorithmic-justice-league][Joy Buolamwini expuso en el episodio Luchando por la Justicia Algorítmica de DataFramed]], los sesgos en las imágenes pueden tener graves consecuencias en la contratación y la actuación policial.
+
 
 ** 3. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
 
