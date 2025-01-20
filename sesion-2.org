@@ -74,6 +74,15 @@ Dirígete al siguiente sitio web, donde vas a entrenar a un coche automático pa
 
 ** 5. Documental: Sesgo Codificado (2020, NETFLIX)
 
+[[https://www.netflix.com/es/title/81328723][Este documental]] investiga errores en los algoritmos después de que Joy Buolamwini, investigadora del MIT, revelara fallos en la tecnología de reconocimiento facial.
+
+[[./imagenes/sesgo2.jpg]]
+
+En concreto, Joy se da cuenta de que un programa de reconocimiento facial no distingue ni identifica su rostro como el de una persona cuantificable para su base de datos. Pero sí lo hace cuando se coloca una máscara neutra... y blanca.
+
+Es el punto de partida de un documental que picotea en muchísimos temas, todos a partir de la arbitrariedad y falta de ética con la que los algoritmos recogen información para dar forma a sus bases de datos y los conocimientos con los que van engordando distintas IAs. Una arbitrariedad que toma forma a partir de prejuicios que todos tenemos y que hacen que, por ejemplo, y como dice uno de los participantes en este interesante documental, *el racismo se mecanice y se replique*.
+
+
 
 
 
