@@ -70,7 +70,7 @@ Dirígete al siguiente sitio web, donde vas a entrenar a un coche automático pa
 
 [[./imagenes/moral.PNG]]
 
-*AVISO*: lamentablemente, algunas decisiones serán poco éticas...😥⚠️
+⚠️ *AVISO*: lamentablemente, algunas decisiones serán poco éticas...😥⚠️
 
 ** 5. Documental: Sesgo Codificado (2020, NETFLIX)
 
