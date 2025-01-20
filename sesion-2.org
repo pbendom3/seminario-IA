@@ -31,7 +31,7 @@ Sora está disponible en la mayor parte del mundo, excepto en la mayoría de pa�
 - Pika
 - Runway -- https://runwayml.com/ 
 
-[[./gif/erasmus.jpeg]]
+[./gif/erasmus.mp4][./gif/erasmus.jpeg]
 
 [[./gif/erasmus.mp4]]
 
