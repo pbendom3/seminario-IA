@@ -43,6 +43,8 @@ Además, se deben salvaguardar los datos contra el acceso no autorizado, las vio
 
 Por último, debemos garantizar que los datos se recopilen, procesen y utilicen de manera justa y no conduzca a ningún tipo de discriminación. Implica evitar sesgos en la recopilación y el análisis de datos, garantizar que los algoritmos y las decisiones basadas en datos no perpetúen la desigualdad y contribuir a lograr la inclusión.
 
+~Además de esas 3 premisas, también debería cumplirse el principio de Transparencia: ¿Sabemos cómo se toman las decisiones algorítmicas? Debatimos con el caso de #Tiktok~
+
 
 ** 2. Ética en el aula
 
