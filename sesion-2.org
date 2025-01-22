@@ -129,7 +129,7 @@ En 2024 la IA se ha usó para desinformar y crear confusión, polarizar en escen
 
 [[./imagenes/katy.jpg]]
 
-- Entre otras cosas que no sucedieron, se difundió una supuesta imagen del eclipse solar total de abril desde Panamá hecha con IA (el fenómeno no era visible desde el país) e imágenes falsas de un supuesto pulpo giganteen una playa.
+- Entre otras cosas que no sucedieron, se difundió una supuesta imagen del eclipse solar total de abril desde Panamá hecha con IA (el fenómeno no era visible desde el país) e imágenes falsas de un supuesto pulpo gigante en una playa.
 
 - La IA generativa también se ha usado para desinformar durante situaciones de emergencia, como la DANA en España y los huracanes Milton y Helene en EEUU, y en sus elecciones presidenciales, con imágenes a favor y en contra de Trump y Harris. El propio Trump compartió en repetidas ocasiones imágenes hechas con IA que lo representan como un héroe en su red social (Truth Social) y en Twitter (ahora X). La imagen más viral fue la de un bebé en brazos de un bombero que supuestamente habría sido “rescatado con vida en Catarroja”, pero que [[https://maldita.es/malditobulo/20241104/foto-bebe-rescatado-catarroja-dana/][no era una imagen real]]. 
 
