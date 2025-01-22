@@ -45,6 +45,8 @@ Por último, debemos garantizar que los datos se recopilen, procesen y utilicen 
 
 ~Además de esas 3 premisas, también debería cumplirse el principio de Transparencia: ¿Sabemos cómo se toman las decisiones algorítmicas? Debatimos con el caso de #Tiktok~
 
+~Por otro lado, deberíamos tener cierta Responsabilidad: ¿Quién debe rendir cuentas cuando una IA comete un error? ¿Quién es el responsable final, nosotros los que escribimos los prompts o la IA que ejecuta el daño?~
+
 
 ** 2. Ética en el aula
 
