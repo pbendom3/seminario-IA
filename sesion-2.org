@@ -47,6 +47,10 @@ Por último, debemos garantizar que los datos se recopilen, procesen y utilicen 
 
 ~Por otro lado, deberíamos tener cierta Responsabilidad: ¿Quién debe rendir cuentas cuando una IA comete un error? ¿Quién es el responsable final, nosotros los que escribimos los prompts o la IA que ejecuta el daño?~
 
+La ética no es sólo un marco de referencia, sino una responsabilidad compartida entre quienes desarrollamos, implementamos y utilizamos la IA. 
+
+🌟 Meritxell Bretos: "La tecnología es una herramienta poderosa, pero su impacto dependerá siempre de las decisiones humanas detrás de ella". 
+
 
 ** 2. Ética en el aula
 
