@@ -3,9 +3,12 @@
 * Ética en el uso de la IA.
 [[./imagenes/ia_etica.png]]
 
+** Novedad!!!: ALIA, la inteligencia artificial española. [[https://alia.gob.es/][Acceso a ALIA]]
+
+
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Ética en el aula.]]
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-%C3%A9tica-en-el-aula][Ética en el aula.]]
     3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
     4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
     5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
@@ -23,6 +26,23 @@
 
 
 ** 1. Implicaciones éticas y sociales de los sistemas de IA
+
+Como culturilla general, cuando hablamos de la ética en las Inteligencias Artificiales no solamente debemos referirnos al modo en que utilizan los datos, si no también en la forma de obtenerlos y de guardarlos.
+
+[[./imagenes/ethics.png]]
+
+En general, los 3 ejes que se deben respetar siempre son:
+
+- Consentimiento y privacidad.
+- Seguridad y protección de los datos.
+- No discriminación.
+
+La suma de estos conceptos implica garantizar que la información personal se recopile y maneje de manera que se protejan los derechos de las personas a la privacidad. Esto incluye obtener el consentimiento informado para la recopilación de datos o implementar medidas para proteger los datos personales. 
+
+Además, se deben salvaguardar los datos contra el acceso no autorizado, las violaciones de seguridad y otras formas de uso indebido.
+
+Por último, debemos garantizar que los datos se recopilen, procesen y utilicen de manera justa y no conduzca a ningún tipo de discriminación. Implica evitar sesgos en la recopilación y el análisis de datos, garantizar que los algoritmos y las decisiones basadas en datos no perpetúen la desigualdad y contribuir a lograr la inclusión.
+
 
 ** 2. Ética en el aula
 
