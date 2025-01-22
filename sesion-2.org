@@ -3,7 +3,7 @@
 * Ética en el uso de la IA.
 [[./imagenes/ia_etica.png]]
 
-** Novedad!!!: ALIA, la inteligencia artificial española. [[https://alia.gob.es/][Acceso a ALIA]]
+** ⚠️ Novedad!!: ALIA, la inteligencia artificial española. [[https://alia.gob.es/][Acceso a ALIA]]
 
 
 ** Índice
