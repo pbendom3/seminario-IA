@@ -56,7 +56,7 @@ Por último, debemos garantizar que los datos se recopilen, procesen y utilicen 
 
 🌟 *Meritxell Bretos: "La tecnología es una herramienta poderosa, pero su impacto dependerá siempre de las decisiones humanas detrás de ella".*
 
-🌟 Y por último, un [[https://www.linkedin.com/posts/ramon-lopez-roldan-724b2686_ia-dalladbe-ethics-activity-7279767543030927361-zdjJ/?utm_source=share&utm_medium=member_ios][post de Ramon Lopez Roldan]] donde se sorprende de ver el protagonismo que le ha dado DALL-E a la palabra #ethics, en el 2024, pidiéndole que le generara una imagen con el resumen de 2024 y la importancia que la IA ha tenido en él.
+🌟 Y por último, un [[https://www.linkedin.com/posts/ramon-lopez-roldan-724b2686_ia-dalladbe-ethics-activity-7279767543030927361-zdjJ/?utm_source=share&utm_medium=member_ios][post de Ramon Lopez Roldan]] donde se sorprende de ver el protagonismo que le ha dado DALL-E a la palabra #ethics en el 2024, pidiéndole que le generara una imagen con el resumen de 2024 y la importancia que la IA ha tenido en él.
 
 [[./imagenes/ethics2.jpg]]
 
