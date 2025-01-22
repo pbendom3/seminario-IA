@@ -5,10 +5,11 @@
 
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
-    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
-    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
-    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#5-documental-sesgo-codificado-2020-netflix][Documental: Sesgo Codificado (2020, NETFLIX).]] 
+    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Ética en el aula.]]
+    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
+    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
+    6. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#5-documental-sesgo-codificado-2020-netflix][Documental: Sesgo Codificado (2020, NETFLIX).]] 
    
 ** Referencias
 - [[https://formacion.intef.es/aulaenabierto/mod/book/view.php?id=5073][INTEF - Ética en la inteligencia artificial]]
@@ -16,11 +17,22 @@
 - [[https://www.moralmachine.net/hl/es][Acceso a Moral Machine]]
 - [[https://www.netflix.com/es/title/81328723][Documental: Sesgo Codificado (2020, NETFLIX)]] 
 - [[https://maldita.es/malditatecnologia/20241230/uso-2024-inteligencia-artificial-bulos-desinformar/][Cómo se ha usado en 2024 la inteligencia artificial para difundir bulos y desinformar]]
+-  [[https://www.linkedin.com/pulse/cr%C3%ADticos-digitales-versus-vagos-d%C3%B3nde-te-posicionas-t%C3%BA-%C3%A0ngels-soriano-bo0tf/][“Críticos Digitales Versus Vagos digitales” ¿Dónde te posicionas Tú?]]
+- [[https://unesdoc.unesco.org/ark:/48223/pf0000391105][documento de La UNESCO sobre el Marco de referencia de las competencias en IA para los estudiantes]]
+- [[https://artificialintelligenceact.eu/es/article/5/][UE, Prácticas prohibidas de IA]]
+
 
 ** 1. Implicaciones éticas y sociales de los sistemas de IA
 
+** 2. Ética en el aula
 
-** 2. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
+¿Si detectáis que un trabajo es copiado por parte de algún estudiante cómo lo evaluáis? ¿Lo habéis contemplado en el apartado de Evaluación de vuestra Programación Didáctica?
+
+*** Críticos Digitales vs Vagos digitales
+
+
+
+** 3. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
 
 [[https://sora.com/][Sora]] es el modelo de IA generativa de texto a vídeo de OpenAI. Esto significa que tú escribes un texto y él crea un vídeo que coincide con la descripción del texto. Aquí tienes unos ejemplos:
 
@@ -61,10 +73,10 @@ En un año con muchas elecciones importantes, desde Taiwán hasta la India y Est
 Como ya hemos venido comentando durante las sesiones, el resultado de los modelos generativos de IA depende en gran medida de los datos con los que se han entrenado. Eso significa que los sesgos o estereotipos culturales en los datos de entrenamiento pueden provocar los mismos problemas en los vídeos resultantes. Como [[https://www.datacamp.com/es/podcast/fighting-for-algorithmic-justice-with-dr-joy-buolamwini-artist-in-chief-and-president-of-the-algorithmic-justice-league][Joy Buolamwini expuso en el episodio Luchando por la Justicia Algorítmica de DataFramed]], los sesgos en las imágenes pueden tener graves consecuencias en la actuación policial.
 
 
-** 3. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
+** 4. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
 
 
-** 4. Introducción al sesgo con moralmachine
+** 5. Introducción al sesgo con moralmachine
 
 Dirígete al siguiente sitio web, donde vas a entrenar a un coche automático para tomar una serie de decisiones: https://www.moralmachine.net/
 
@@ -72,7 +84,7 @@ Dirígete al siguiente sitio web, donde vas a entrenar a un coche automático pa
 
 ⚠️ *AVISO*: lamentablemente, algunas decisiones serán poco éticas...😥⚠️
 
-** 5. Documental: Sesgo Codificado (2020, NETFLIX)
+** 6. Documental: Sesgo Codificado (2020, NETFLIX)
 
 [[https://www.netflix.com/es/title/81328723][Este documental]] investiga errores en los algoritmos después de que Joy Buolamwini, investigadora del MIT, revelara fallos en la tecnología de reconocimiento facial.
 
