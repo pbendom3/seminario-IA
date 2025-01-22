@@ -21,7 +21,7 @@
 - [[https://www.netflix.com/es/title/81328723][Documental: Sesgo Codificado (2020, NETFLIX)]] 
 - [[https://maldita.es/malditatecnologia/20241230/uso-2024-inteligencia-artificial-bulos-desinformar/][Cómo se ha usado en 2024 la inteligencia artificial para difundir bulos y desinformar]]
 -  [[https://www.linkedin.com/pulse/cr%C3%ADticos-digitales-versus-vagos-d%C3%B3nde-te-posicionas-t%C3%BA-%C3%A0ngels-soriano-bo0tf/][“Críticos Digitales Versus Vagos digitales” ¿Dónde te posicionas Tú?]]
-- [[https://unesdoc.unesco.org/ark:/48223/pf0000391105][documento de La UNESCO sobre el Marco de referencia de las competencias en IA para los estudiantes]]
+- [[https://unesdoc.unesco.org/ark:/48223/pf0000391105][Documento de La UNESCO sobre el Marco de referencia de las competencias en IA para los estudiantes]]
 - [[https://artificialintelligenceact.eu/es/article/5/][UE, Prácticas prohibidas de IA]]
 
 
@@ -100,9 +100,15 @@ Como ya hemos venido comentando durante las sesiones, el resultado de los modelo
 
 Dirígete al siguiente sitio web, donde vas a entrenar a un coche automático para tomar una serie de decisiones: https://www.moralmachine.net/
 
+Es un «juego» en línea multilingüe que se planteó para recoger datos sobre cómo querrían los ciudadanos que los vehículos autónomos resolvieran dilemas morales en el contexto de accidentes inevitables, es decir, para evaluar las expectativas sociales sobre la manera en que los vehículos autónomos tendrían que resolver dilemas morales.
+
 [[./imagenes/moral.PNG]]
 
 ⚠️ *AVISO*: lamentablemente, algunas decisiones serán poco éticas...😥⚠️
+
+Analizando las más de un millón de respuestas, se ve que hay diferencias culturales respecto a las preferencias para cada escenario. Algunas culturas prefieren salvar a los jóvenes; otras, a las mujeres, y otras, a las personas de alto estatus.
+
+En cualquier caso, si el sistema del vehículo autónomo tiene acceso a información personal, cualquier decisión no aleatoria entre dos vidas siempre será discriminatoria. Si la decisión es aleatoria, tiene que considerar todas las posibilidades por igual y, por lo tanto, también tendrá que incluir al conductor del coche. Quizás este hecho no va muy a favor de las ventas de vehículos autónomos. Por otro lado, si las vidas de los conductores de coches autónomos se priorizan siempre por encima de las de los peatones, posiblemente la gente que «corra el riesgo» de ser peatón será la que no se pueda permitir tener un vehículo autónomo.
 
 ** 6. Documental: Sesgo Codificado (2020, NETFLIX)
 
