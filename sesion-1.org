@@ -108,7 +108,7 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 *** ¿Has probado su asistente de voz en la nueva versión? Lo de pedir hora en la peluquería se queda corto...
 
-[[./imagenes/chat000.png]] [[./imagenes/chat111.png]] 
+[[./imagenes/chat000.PNG]]
 
 ** 4. Otros modelos de aprendizaje
 
