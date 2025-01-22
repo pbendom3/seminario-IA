@@ -123,6 +123,22 @@ Como ya hemos venido comentando durante las sesiones, el resultado de los modelo
 
 ** 4. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
 
+En 2024 la IA se ha usó para desinformar y crear confusión, polarizar en escenarios políticos y aumentar el caos en situaciones críticas como catástrofes naturales. Aquí tienes un resumen:
+
+- En 2024 hemos desmentido imágenes generadas con IA que se han compartido como reales, como el papa Francisco de fiesta, la boxeadora Imane Khelif como un hombre, Katy Perry o Rihanna en la Met Gala y la torre Eiffel y el Museo del Louvre en llamas.
+
+[[./imagenes/katy.jpg]]
+
+- Entre otras cosas que no sucedieron, se difundió una supuesta imagen del eclipse solar total de abril desde Panamá hecha con IA (el fenómeno no era visible desde el país) e imágenes falsas de un supuesto pulpo giganteen una playa.
+
+- La IA generativa también se ha usado para desinformar durante situaciones de emergencia, como la DANA en España y los huracanes Milton y Helene en EEUU, y en sus elecciones presidenciales, con imágenes a favor y en contra de Trump y Harris. El propio Trump compartió en repetidas ocasiones imágenes hechas con IA que lo representan como un héroe en su red social (Truth Social) y en Twitter (ahora X). La imagen más viral fue la de un bebé en brazos de un bombero que supuestamente habría sido “rescatado con vida en Catarroja”, pero que [[https://maldita.es/malditobulo/20241104/foto-bebe-rescatado-catarroja-dana/][no era una imagen real]]. 
+
+- Una de las novedades del año ha sido Grok, la IA de Twitter, que su dueño Elon Musk ha usado para apoyar narrativas desinformadoras y cuya falta de restricciones da rienda suelta a la desinformación. Por el lado de Kamala Harris, no se detectó que ella o su equipo compartieran contenido generado con IA. Pero sí circularon imágenes creadas con IA de la candidata demócrata que la sexualizaban o caricaturizaban su ideología para desacreditarla. Algunas se usaron para sostener que Harris fueuna “prostituta de lujo” o una “escort”, o que tuvo una relación sentimental con Epstein. Elon Musk usó Grok para crear y difundir este tipo de imágenes de ella, como la que aparece vestida con un uniforme rojo con el símbolo comunista.
+
+- Se usan imágenes generadas con IA en Facebook para obtener ingresos y chatbots de IA para crear de forma masiva artículos falsos o imprecisos en granjas de contenido. Además, la falta de contexto e información sobre la propia inteligencia artificial también puede implicar desinformación
+
+*Pero ojo... Esto ya empieza a ser como el cuento de Pedro y el lobo*. También estamos llegando a un punto en el que sucede lo contrario: ahora que sabemos que se puede usar IA para crear contenidos, hay imágenes que confunden a usuarios y nos hacen pensar que están hechas con IA, como la de los coches apilados en una calle, pero que sí son reales.
+
 
 ** 5. Introducción al sesgo con moralmachine
 
