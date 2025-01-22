@@ -24,6 +24,11 @@
 - [[https://unesdoc.unesco.org/ark:/48223/pf0000391105][Documento de La UNESCO sobre el Marco de referencia de las competencias en IA para los estudiantes]]
 - [[https://artificialintelligenceact.eu/es/article/5/][UE, Prácticas prohibidas de IA]]
 
+** Materiales 
+Estrategias y recomendaciones prácticas para integrar la IA en la enseñanza de manera ética y "efectiva".
+- [[https://unesdoc.unesco.org/ark:/48223/pf0000389227][Guía para el uso de IA generativa en educación e investigación]]
+- [[https://www.educaciontrespuntocero.com/tecnologia/guias-ia-aula/?utm_source=chatgpt.com][Educación 3.0 - ¿Quieres usar la IA en el aula y no sabes por dónde empezar? Estas guías gratuitas resolverán tus dudas]]
+
 
 ** 1. Implicaciones éticas y sociales de los sistemas de IA
 
