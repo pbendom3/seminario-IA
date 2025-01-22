@@ -137,7 +137,7 @@ En 2024 la IA se ha usó para desinformar y crear confusión, polarizar en escen
 
 - Se usan imágenes generadas con IA en Facebook para obtener ingresos y chatbots de IA para crear de forma masiva artículos falsos o imprecisos en granjas de contenido. Además, la falta de contexto e información sobre la propia inteligencia artificial también puede implicar desinformación
 
-*Pero ojo... Esto ya empieza a ser como el cuento de Pedro y el lobo*. También estamos llegando a un punto en el que sucede lo contrario: ahora que sabemos que se puede usar IA para crear contenidos, hay imágenes que confunden a usuarios y nos hacen pensar que están hechas con IA, como la de los coches apilados en una calle, pero que sí son reales.
+*Pero ojo... Esto ya empieza a ser como el cuento de Pedro y el lobo*. También estamos llegando a un punto en el que sucede lo contrario: ahora que sabemos que se puede usar IA para crear contenidos hay imágenes que confunden a usuarios y nos hacen pensar que están hechas con IA, como la de los coches apilados en una calle tras la DANA, pero que sí son reales.
 
 
 ** 5. Introducción al sesgo con moralmachine
