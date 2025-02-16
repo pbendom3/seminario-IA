@@ -16,6 +16,27 @@
 - [[https://poe.com/][Acceso a Poe]] 
 
 ** 1. Experimentando con Chatbots: Asistentes virtuales vs Agentes conversacionales
+En esta actividad basada en la indagación, interactuaremos con dos tipos de chatbots de IA: asistentes virtuales y agentes conversacionales. Además, analizaremos las fortalezas y debilidades de cada forma de chatbot.
+
+*** ASISTENTES VIRTUALES
+
+- Abre el asistente virtual de Ecoembes (https://www.ecoembes.com/proyectos-destacados/chatbot-aire/) e inicia una conversación con él. 
+- Debes pedirle que te resuelva dudas concretas, como dónde reciclar una piel de plátano o la tapa de un yogur. 
+- Pídele otras tareas básicas, como reservar una cita, programar un temporizador o calcular un problema de matemáticas. Observa cómo reacciona...
+
+*** AGENTES CONVERSACIONALES
+
+- Abre el agente conversacional ChatGPT (https://chat.openai.com/) e inicia una conversación con él. 
+- Pídele las mismas tareas que al asistente virtual de la actividad anterior. 
+- Además, pídele alguna tarea concreta nueva (por ejemplo, que redacte un texto sobre la educación en España) y trata de mantener una conversación con él sobre temas cotidianos o pensamientos acerca del mundo. Observa su comportamiento y compáralo con el obtenido con el chat de Ecoembes sobre reciclaje.
+
+*** Vamos a reflexionar sobre las interacciones que hemos realizado con los chatbots...
+
+- Identifica las características que los asistentes virtuales y los agentes conversacionales tienen en común.
+
+- Identifica las características que los diferencian. 
+
+Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/graficos/diagrama-venn/) para recopilar todas las características identificadas.
 
 
 ** 2. Uso de chatbots en el aula
