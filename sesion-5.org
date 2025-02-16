@@ -66,7 +66,7 @@ Una vez hayamos seleccionado la idea, debemos pensar y desarrollar en texto una 
 
 [[./imagenes/botframe2.PNG]]
 
-*BONUS*. Si hubiera alumnado cursando la asignatura de Programación y Robótica sería perfecto, porque además del modelo podrían desarrollar la app de verdad.
+*BONUS*. Si hubiera alumnado cursando la asignatura de Programación y Robótica sería perfecto, porque además del modelo podrían desarrollar la app de verdad con Scratch (https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-chatbots-es.pdf) o AppInventor (https://www.youtube.com/watch?v=OisKqB25GwY&list=LL&index=1&t=406s). 
 
 *** Paso 5. Prepararse para presentarlo a toda la clase.
 
