@@ -40,11 +40,38 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 [[./imagenes/chatboy_canva.png]]
 
 ** 2. Uso de chatbots en el aula
-[[./imagenes/botframe2.png]]
+
+[[./imagenes/poe.PNG]]
+
 
 ** 3. Actividad de clase. Diseño de un chatbot con IA
+Diseño de un chatbot de IA en grupo
 
-[[./imagenes/poe.png]]
+*** Paso 1. Cada equipo debe hacer una lluvia de ideas para obtener al menos tres formas en que un chatbot con IA podría usarse en clase. 
 
+RECORDATORIO: debemos imaginar aplicaciones de chatbots de IA realistas y no de ciencia ficción, trabajando dentro de las capacidades actuales de los chatbots de IA, que generalmente tienen un propósito específico y están limitados por las fortalezas y debilidades del procesamiento del lenguaje natural. 
+
+Por ejemplo, un chatbot de IA puede ayudarnos como alumnos a evaluarnos mientras estudiamos para un examen, extraer definiciones de vocabulario mientras leemos un cuento corto, hacer cálculos mientras realizamos un experimento de ciencias, realizar una encuesta en una clase de estudios sociales o tranquilizarnos cuando nos sentimos ansiosos.
+
+*** Paso 2. Ponerse de acuerdo para seleccionar una de las ideas propuestas anteriormente.
+
+De entre todas las ideas que hayáis pensado, poneos de acuerdo en el grupo para elegir la que consideréis más adecuada para un chatbot de IA, intentando conseguir que sea lo más realista posible y que pueda tener un beneficio al ser utilizado.
+
+*** Paso 3. Simulación de una conversación/chat en texto
+
+Una vez hayamos seleccionado la idea, debemos pensar y desarrollar en texto una simulación de una conversación real con el chatbot. Podéis generar un archivo de texto en el que guardar la conversación.
+
+*** Paso 4. Desarrollar con ayuda de Botframe un modelo que demuestre cómo funcionaría el chatbot.
+
+[[https://botframe.com/editor/new][Acceso a Botframe]] 
+[[./imagenes/botframe2.PNG]]
+
+*** Paso 5. Prepararse para presentarlo a toda la clase.
+
+Durante la presentación, se expondrá al resto de grupos el bot propuesto, discutiendo acerca de los posibles beneficios que  pueda tener, lo realista que sea, si está preparado para preguntas de troleo, etc.
+
+*** Después de las presentaciones, reflexión en grupo...
+- ¿Cómo de realistas pensáis que son las aplicaciones de chatbot de IA que se han explicado en las presentaciones?
+- ¿Qué chatbot de todos los presentados creéis que sería el más beneficioso para los seres humanos y por qué?
 
 
