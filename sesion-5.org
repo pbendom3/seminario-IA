@@ -33,11 +33,11 @@ En esta actividad basada en la indagación, interactuaremos con dos tipos de cha
 *** Vamos a reflexionar sobre las interacciones que hemos realizado con los chatbots...
 
 - Identifica las características que los asistentes virtuales y los agentes conversacionales tienen en común.
-
 - Identifica las características que los diferencian. 
 
 Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/graficos/diagrama-venn/) para recopilar todas las características identificadas.
 
+[[./imagenes/chatboy_canva.png]]
 
 ** 2. Uso de chatbots en el aula
 
