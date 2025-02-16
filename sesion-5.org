@@ -43,6 +43,10 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 [[./imagenes/poe.PNG]]
 
+[[./imagenes/botlibre.PNG]]
+
+[[./imagenes/botlibre2.PNG]]
+
 
 ** 3. Actividad de clase. Diseño de un chatbot con IA
 
