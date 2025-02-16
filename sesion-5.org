@@ -45,11 +45,10 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 
 ** 3. Actividad de clase. Diseño de un chatbot con IA
-Diseño de un chatbot de IA en grupo
 
 *** Paso 1. Cada equipo debe hacer una lluvia de ideas para obtener al menos tres formas en que un chatbot con IA podría usarse en clase. 
 
-RECORDATORIO: debemos imaginar aplicaciones de chatbots de IA realistas y no de ciencia ficción, trabajando dentro de las capacidades actuales de los chatbots de IA, que generalmente tienen un propósito específico y están limitados por las fortalezas y debilidades del procesamiento del lenguaje natural. 
+*RECORDATORIO*: debemos imaginar aplicaciones de chatbots de IA realistas y no de ciencia ficción, trabajando dentro de las capacidades actuales de los chatbots de IA, que generalmente tienen un propósito específico y están limitados por las fortalezas y debilidades del procesamiento del lenguaje natural. 
 
 Por ejemplo, un chatbot de IA puede ayudarnos como alumnos a evaluarnos mientras estudiamos para un examen, extraer definiciones de vocabulario mientras leemos un cuento corto, hacer cálculos mientras realizamos un experimento de ciencias, realizar una encuesta en una clase de estudios sociales o tranquilizarnos cuando nos sentimos ansiosos.
 
@@ -64,7 +63,10 @@ Una vez hayamos seleccionado la idea, debemos pensar y desarrollar en texto una 
 *** Paso 4. Desarrollar con ayuda de Botframe un modelo que demuestre cómo funcionaría el chatbot.
 
 [[https://botframe.com/editor/new][Acceso a Botframe]] 
+
 [[./imagenes/botframe2.PNG]]
+
+*BONUS*. Si hubiera alumnado cursando la asignatura de Programación y Robótica sería perfecto, porque además del modelo podrían desarrollar la app de verdad.
 
 *** Paso 5. Prepararse para presentarlo a toda la clase.
 
