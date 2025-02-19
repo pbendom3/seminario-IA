@@ -41,7 +41,11 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 ** 2. Uso de chatbots en el aula
 
+https://poe.com/
+
 [[./imagenes/poe.PNG]]
+
+https://es.botlibre.com/
 
 [[./imagenes/botlibre.PNG]]
 
