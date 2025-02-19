@@ -24,11 +24,15 @@ En esta actividad basada en la indagación, interactuaremos con dos tipos de cha
 - Debes pedirle que te resuelva dudas concretas, como dónde reciclar una piel de plátano o la tapa de un yogur. 
 - Pídele otras tareas básicas, como reservar una cita, programar un temporizador o calcular un problema de matemáticas. Observa cómo reacciona...
 
+[[./imagenes/ecoembes.PNG]]
+
 *** AGENTES CONVERSACIONALES
 
 - Abre el agente conversacional ChatGPT (https://chat.openai.com/) e inicia una conversación con él. 
 - Pídele las mismas tareas que al asistente virtual de la actividad anterior. 
 - Además, pídele alguna tarea concreta nueva (por ejemplo, que redacte un texto sobre la educación en España) y trata de mantener una conversación con él sobre temas cotidianos o pensamientos acerca del mundo. Observa su comportamiento y compáralo con el obtenido con el chat de Ecoembes sobre reciclaje.
+
+[[./imagenes/chatgpt.PNG]]
 
 *** Vamos a reflexionar sobre las interacciones que hemos realizado con los chatbots...
 
